@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#16324f"/>
+  <rect x="0" y="0" width="800" height="10" fill="#e87722"/>
+  <g fill="none" stroke="#3f6184" stroke-width="6">
+    <rect x="250" y="150" width="300" height="300" rx="8"/>
+    <line x1="290" y1="150" x2="290" y2="450"/>
+    <line x1="330" y1="150" x2="330" y2="450"/>
+    <line x1="370" y1="150" x2="370" y2="450"/>
+    <line x1="410" y1="150" x2="410" y2="450"/>
+    <line x1="450" y1="150" x2="450" y2="450"/>
+    <line x1="490" y1="150" x2="490" y2="450"/>
+  </g>
+  <text x="400" y="530" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Radiators &amp; Oil Coolers</text>
+</svg>

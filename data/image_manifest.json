@@ -1,0 +1,711 @@
+{
+  "categories": {
+    "hydraulic-cylinders": [
+      {
+        "src": "F:\\最新已分类产品图片\\01.液压油缸\\2.缸筒\\7.沃尔沃\\EC460 ARM TUBE\\EC460 ARM TUBE (5).jpg",
+        "dest": "assets/images/hydraulic-cylinders/img_01.jpg",
+        "w": 1000,
+        "h": 750,
+        "bytes": 108863
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\01.液压油缸\\2.缸筒\\9.小松\\PC450-8 BUCKET TUBE\\PC450-8 BUCKET TUBE (3).jpg",
+        "dest": "assets/images/hydraulic-cylinders/img_02.jpg",
+        "w": 750,
+        "h": 1000,
+        "bytes": 126319
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\01.液压油缸\\2.缸筒\\5.三一\\SY365.SY395 ARM TUBE\\SY365.SY395 ARM TUBE (2).jpg",
+        "dest": "assets/images/hydraulic-cylinders/img_03.jpg",
+        "w": 750,
+        "h": 1000,
+        "bytes": 115399
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\01.液压油缸\\2.缸筒\\8.现代\\R335-7 ARM TUBE\\R335-7 ARM TUBE (3).jpg",
+        "dest": "assets/images/hydraulic-cylinders/img_04.jpg",
+        "w": 1000,
+        "h": 750,
+        "bytes": 94415
+      }
+    ],
+    "engine-parts": [
+      {
+        "src": "F:\\最新已分类产品图片\\08.Engine 发动机&配件\\17.凸轮轴\\凸轮轴New\\连杆照片\\6HK1错口淬火连杆\\IMG_20230526_173733.jpg",
+        "dest": "assets/images/engine-parts/img_01.jpg",
+        "w": 750,
+        "h": 1000,
+        "bytes": 51148
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\08.Engine 发动机&配件\\17.凸轮轴\\凸轮轴New\\连杆照片\\6HK1错口连杆\\IMG_20230526_174014.jpg",
+        "dest": "assets/images/engine-parts/img_02.jpg",
+        "w": 750,
+        "h": 1000,
+        "bytes": 55517
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\08.Engine 发动机&配件\\17.凸轮轴\\凸轮轴New\\曲轴照,白底\\J05E曲轴锻钢\\IMG_20230504_120322.jpg",
+        "dest": "assets/images/engine-parts/img_03.jpg",
+        "w": 750,
+        "h": 1000,
+        "bytes": 73745
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\08.Engine 发动机&配件\\17.凸轮轴\\凸轮轴New\\卡特系列曲轴连杆\\3512连杆\\MVIMG_20240925_171220.jpg",
+        "dest": "assets/images/engine-parts/img_04.jpg",
+        "w": 450,
+        "h": 1000,
+        "bytes": 40471
+      }
+    ],
+    "hydraulic-pumps": [
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\1. 液压泵 hydraulic pump\\液压泵图片\\K5V200DPH1\\K5V200DPH1 (13).JPG",
+        "dest": "assets/images/hydraulic-pumps/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 95057
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\1. 液压泵 hydraulic pump\\液压泵图片\\E336 340 345 GC 泵\\550-4341..jpg",
+        "dest": "assets/images/hydraulic-pumps/img_02.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 42230
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\1. 液压泵 hydraulic pump\\液压泵图片\\PC100 120 130 -6泵\\DSC04481.JPG",
+        "dest": "assets/images/hydraulic-pumps/img_03.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 64825
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\1. 液压泵 hydraulic pump\\液压泵图片\\PC6.70-8 泵 件号：708-3T-11220 708-3T-11140\\DSC04663.JPG",
+        "dest": "assets/images/hydraulic-pumps/img_04.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 62468
+      }
+    ],
+    "gear-pumps": [
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\齿轮泵\\DSC03907.JPG",
+        "dest": "assets/images/gear-pumps/img_01.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 75087
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\齿轮泵\\PSVL-42CG.jpg",
+        "dest": "assets/images/gear-pumps/img_02.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 150606
+      }
+    ],
+    "final-drives": [
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\4. 行走 travel motor\\行走总成\\PC210 240-8K 行走\\DSC04762.JPG",
+        "dest": "assets/images/final-drives/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 66028
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\4. 行走 travel motor\\行走总成\\MAG-33VP-550 650\\DSC04730.JPG",
+        "dest": "assets/images/final-drives/img_02.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 61268
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\4. 行走 travel motor\\行走总成\\GM18 TM18\\DSC04741.JPG",
+        "dest": "assets/images/final-drives/img_03.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 47191
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\4. 行走 travel motor\\行走总成\\GM07 TM07\\DSC04715.JPG",
+        "dest": "assets/images/final-drives/img_04.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 47338
+      }
+    ],
+    "swing-motors": [
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\3. 回转 SWING MOTOR\\回转总成\\PC128 138UU PC128 138US PC130 PW130 回转\\DSC04703.JPG",
+        "dest": "assets/images/swing-motors/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 63335
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\3. 回转 SWING MOTOR\\回转总成\\PC400 450 -7 回转\\DSC04696.JPG",
+        "dest": "assets/images/swing-motors/img_02.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 50671
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\3. 回转 SWING MOTOR\\回转总成\\PC210 240-8K 回转\\DSC04744.JPG",
+        "dest": "assets/images/swing-motors/img_03.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 45649
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\06. 回转，行走，分配阀，液压泵，齿轮泵\\3. 回转 SWING MOTOR\\回转总成\\31Q4-11133-SE\\31Q4-11133-SE...jpg",
+        "dest": "assets/images/swing-motors/img_04.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 58604
+      }
+    ],
+    "fuel-injectors": [
+      {
+        "src": "F:\\最新已分类产品图片\\02.喷油嘴\\148-2903\\20260309160422_副本.png",
+        "dest": "assets/images/fuel-injectors/img_01.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 206347
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\02.喷油嘴\\21644596喷油嘴\\_DSC1023.JPG",
+        "dest": "assets/images/fuel-injectors/img_02.jpg",
+        "w": 1000,
+        "h": 664,
+        "bytes": 31158
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\02.喷油嘴\\喷油嘴原图\\124042.jpg",
+        "dest": "assets/images/fuel-injectors/img_03.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 106966
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\02.喷油嘴\\617-1905\\微信图片_20250905101529.jpg",
+        "dest": "assets/images/fuel-injectors/img_04.jpg",
+        "w": 749,
+        "h": 1000,
+        "bytes": 69056
+      }
+    ],
+    "solenoid-valves": [
+      {
+        "src": "F:\\最新已分类产品图片\\04. 电磁阀\\原图\\DSC03755.JPG",
+        "dest": "assets/images/solenoid-valves/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 26990
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\04. 电磁阀\\微信图片_20221028174022.jpg",
+        "dest": "assets/images/solenoid-valves/img_02.jpg",
+        "w": 1000,
+        "h": 491,
+        "bytes": 73467
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\04. 电磁阀\\提升器\\微信图片_20221021114350.jpg",
+        "dest": "assets/images/solenoid-valves/img_03.jpg",
+        "w": 1000,
+        "h": 750,
+        "bytes": 80000
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\04. 电磁阀\\SOLENOID VALVE\\SBS140 SOLENOID VALVE\\SBS140 SOLENOID VALVE (2).jpg",
+        "dest": "assets/images/solenoid-valves/img_04.jpg",
+        "w": 750,
+        "h": 1000,
+        "bytes": 103675
+      }
+    ],
+    "electrical-parts": [
+      {
+        "src": "F:\\最新已分类产品图片\\04. 电器件\\原图\\DSC03673.JPG",
+        "dest": "assets/images/electrical-parts/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 35520
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\04. 电器件\\溢流阀\\DSC03618.JPG",
+        "dest": "assets/images/electrical-parts/img_02.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 29266
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\04. 电器件\\电器配件原图\\DSC02421.JPG",
+        "dest": "assets/images/electrical-parts/img_03.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 84408
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\04. 电器件\\溢流阀\\溢流阀合集\\ZAX450主炮.JPG",
+        "dest": "assets/images/electrical-parts/img_04.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 45379
+      }
+    ],
+    "attachments": [
+      {
+        "src": "F:\\最新已分类产品图片\\05. 属具\\属具厂拍摄原图\\DSC06972.JPG",
+        "dest": "assets/images/attachments/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 168630
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\11. 检测器\\DSC04836.JPG",
+        "dest": "assets/images/attachments/img_02.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 74504
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\05. 属具\\原图\\原图0803\\DSC03609.JPG",
+        "dest": "assets/images/attachments/img_03.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 114474
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\03. 分油盅\\分油盅原图\\DH55\\DSC03268.JPG",
+        "dest": "assets/images/attachments/img_04.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 50597
+      }
+    ],
+    "oil-seals": [
+      {
+        "src": "F:\\最新已分类产品图片\\07. 油封\\6.液压泵修理包（JCB160 PSV2-60T\\DSC04935.JPG",
+        "dest": "assets/images/oil-seals/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 54351
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\07. 油封\\7.自拍图\\0614\\DSC03145.JPG",
+        "dest": "assets/images/oil-seals/img_02.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 54036
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\07. 油封\\7.自拍图\\沃尔沃\\DSC03290.JPG",
+        "dest": "assets/images/oil-seals/img_03.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 83335
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\07. 油封\\7.自拍图\\SKF\\原图\\DSC02274.JPG",
+        "dest": "assets/images/oil-seals/img_04.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 67684
+      }
+    ],
+    "buckets-teeth": [
+      {
+        "src": "F:\\最新已分类产品图片\\21.斗齿\\IMG_E1013.JPG",
+        "dest": "assets/images/buckets-teeth/img_01.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 37012
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\14. 挖掘机\\1105挖掘机\\DSC06881.JPG",
+        "dest": "assets/images/buckets-teeth/img_02.jpg",
+        "w": 666,
+        "h": 1000,
+        "bytes": 121719
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\14. 挖掘机\\加长臂\\_DSC1968.JPG",
+        "dest": "assets/images/buckets-teeth/img_03.jpg",
+        "w": 1000,
+        "h": 664,
+        "bytes": 113443
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\21.斗齿\\IMG_E0798.JPG",
+        "dest": "assets/images/buckets-teeth/img_04.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 56103
+      }
+    ],
+    "breakers": [
+      {
+        "src": "F:\\最新已分类产品图片\\19.破碎锤\\无水印\\微信图片_20221021113352.jpg",
+        "dest": "assets/images/breakers/img_01.jpg",
+        "w": 464,
+        "h": 1000,
+        "bytes": 76782
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\19.破碎锤\\破碎锤工厂图片1.jpg",
+        "dest": "assets/images/breakers/img_02.jpg",
+        "w": 555,
+        "h": 1000,
+        "bytes": 133962
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\19.破碎锤\\无水印\\主图\\10.jpg",
+        "dest": "assets/images/breakers/img_03.jpg",
+        "w": 850,
+        "h": 850,
+        "bytes": 119453
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\19.破碎锤\\无水印\\_DSC0964.JPG",
+        "dest": "assets/images/breakers/img_04.jpg",
+        "w": 1000,
+        "h": 664,
+        "bytes": 120272
+      }
+    ],
+    "undercarriage": [
+      {
+        "src": "F:\\最新已分类产品图片\\15. 底盘件网图\\3-Undercarriage-components-scaled.jpeg",
+        "dest": "assets/images/undercarriage/img_01.jpg",
+        "w": 1000,
+        "h": 662,
+        "bytes": 73470
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\15. 底盘件网图\\底盘件（水印\\Undercarriage Parts-49.jpg",
+        "dest": "assets/images/undercarriage/img_02.jpg",
+        "w": 800,
+        "h": 800,
+        "bytes": 63486
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\15. 底盘件网图\\3c90234d-32fb-4729-b0fa-9b08ad5b7363.jpg",
+        "dest": "assets/images/undercarriage/img_03.jpg",
+        "w": 996,
+        "h": 1000,
+        "bytes": 80812
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\15. 底盘件网图\\16837120347626.jpg",
+        "dest": "assets/images/undercarriage/img_04.jpg",
+        "w": 508,
+        "h": 1000,
+        "bytes": 73052
+      }
+    ],
+    "hoses-tubes": [
+      {
+        "src": "F:\\最新已分类产品图片\\12. 软管\\软管\\DSC03245.JPG",
+        "dest": "assets/images/hoses-tubes/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 75230
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\12. 油管\\ZX200-3\\DSC05173.JPG",
+        "dest": "assets/images/hoses-tubes/img_02.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 58534
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\12. 软管\\软管\\DSC03244.JPG",
+        "dest": "assets/images/hoses-tubes/img_03.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 72723
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\12. 软管\\软管\\DSC03246.JPG",
+        "dest": "assets/images/hoses-tubes/img_04.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 83242
+      }
+    ],
+    "wiring-harness": [
+      {
+        "src": "F:\\最新已分类产品图片\\28.线束\\492-2074\\微信图片_20250917164526.jpg",
+        "dest": "assets/images/wiring-harness/img_01.jpg",
+        "w": 999,
+        "h": 750,
+        "bytes": 191562
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\28.线束\\275-6733\\809b5842f99e5ab9bda300dd7558ea1.jpg",
+        "dest": "assets/images/wiring-harness/img_02.jpg",
+        "w": 1000,
+        "h": 750,
+        "bytes": 155270
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\28.线束\\#283-2933\\水印\\微信图片_20260401114234.jpg",
+        "dest": "assets/images/wiring-harness/img_03.jpg",
+        "w": 562,
+        "h": 1000,
+        "bytes": 171778
+      }
+    ],
+    "transmissions": [
+      {
+        "src": "F:\\最新已分类产品图片\\29.变速箱\\22584\\变速箱\\微信图片_20250822094824_副本.png",
+        "dest": "assets/images/transmissions/img_01.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 61099
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\29.变速箱\\法士特9JS150T-B 原装变速箱\\微信图片_20250904100412.jpg",
+        "dest": "assets/images/transmissions/img_02.jpg",
+        "w": 562,
+        "h": 1000,
+        "bytes": 101411
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\29.变速箱\\22584\\变速箱\\微信图片_20250822094837_副本.png",
+        "dest": "assets/images/transmissions/img_03.jpg",
+        "w": 1000,
+        "h": 1000,
+        "bytes": 59071
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\29.变速箱\\22584\\变速箱\\f21f0964bc8b6d0b3362eca7d943aa2.jpg",
+        "dest": "assets/images/transmissions/img_04.jpg",
+        "w": 1000,
+        "h": 562,
+        "bytes": 98608
+      }
+    ],
+    "cat-genuine-parts": [
+      {
+        "src": "F:\\最新已分类产品图片\\13. 卡特原装配件\\1101卡特\\DSC06698.JPG",
+        "dest": "assets/images/cat-genuine-parts/img_01.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 90635
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\13. 卡特原装配件\\1101卡特\\DSC06802.JPG",
+        "dest": "assets/images/cat-genuine-parts/img_02.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 82272
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\13. 卡特原装配件\\1101卡特\\DSC06816.JPG",
+        "dest": "assets/images/cat-genuine-parts/img_03.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 68232
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\13. 卡特原装配件\\1101卡特\\DSC06699.JPG",
+        "dest": "assets/images/cat-genuine-parts/img_04.jpg",
+        "w": 1000,
+        "h": 666,
+        "bytes": 61022
+      }
+    ],
+    "volvo-genuine-parts": [
+      {
+        "src": "F:\\最新已分类产品图片\\20.沃尔沃原装配件\\_DSC1153.JPG",
+        "dest": "assets/images/volvo-genuine-parts/img_01.jpg",
+        "w": 1000,
+        "h": 664,
+        "bytes": 54893
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\20.沃尔沃原装配件\\20.沃尔沃原装配件\\14532688\\14532688 (1).JPG",
+        "dest": "assets/images/volvo-genuine-parts/img_02.jpg",
+        "w": 1000,
+        "h": 664,
+        "bytes": 23285
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\20.沃尔沃原装配件\\20.沃尔沃原装配件\\EC700中臂油封\\_DSC1063_副本.jpg",
+        "dest": "assets/images/volvo-genuine-parts/img_03.jpg",
+        "w": 1000,
+        "h": 664,
+        "bytes": 53951
+      },
+      {
+        "src": "F:\\最新已分类产品图片\\20.沃尔沃原装配件\\20.沃尔沃原装配件\\EC460回转油封\\_DSC1074_副本.jpg",
+        "dest": "assets/images/volvo-genuine-parts/img_04.jpg",
+        "w": 1000,
+        "h": 664,
+        "bytes": 45451
+      }
+    ]
+  },
+  "brand": [
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\logo\\水印.png",
+      "dest": "assets/images/brand/logo.png",
+      "w": 425,
+      "h": 425,
+      "bytes": 76455
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\logo\\ICY微信二维码.png",
+      "dest": "assets/images/brand/wechat-qr.png",
+      "w": 280,
+      "h": 280,
+      "bytes": 27948
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\logo\\ICY whats app二维码.png",
+      "dest": "assets/images/brand/whatsapp-qr.png",
+      "w": 173,
+      "h": 158,
+      "bytes": 11303
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\logo\\Icy名片.png",
+      "dest": "assets/images/brand/business-card.png",
+      "w": 753,
+      "h": 452,
+      "bytes": 389089
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\logo\\印章.png",
+      "dest": "assets/images/brand/seal.png",
+      "w": 1000,
+      "h": 1000,
+      "bytes": 512252
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\logo\\Sales Contract-ST20251103-ICY(Scan).jpg",
+      "dest": "assets/images/brand/sales-contract.jpg",
+      "w": 718,
+      "h": 634,
+      "bytes": 47003
+    }
+  ],
+  "company": [
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\收款码&证书&执照\\营业执照.jpg",
+      "dest": "assets/images/company/营业执照.jpg",
+      "w": 1000,
+      "h": 750,
+      "bytes": 101734
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\收款码&证书&执照\\证书 567+384 (1).jpg",
+      "dest": "assets/images/company/证书1.jpg",
+      "w": 500,
+      "h": 713,
+      "bytes": 38847
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\收款码&证书&执照\\证书 567+384 (2).jpg",
+      "dest": "assets/images/company/证书2.jpg",
+      "w": 390,
+      "h": 609,
+      "bytes": 30024
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\收款码&证书&执照\\证书 567+384 (3).jpg",
+      "dest": "assets/images/company/证书3.jpg",
+      "w": 720,
+      "h": 1000,
+      "bytes": 152543
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\收款码&证书&执照\\证书 567+384 (4).jpg",
+      "dest": "assets/images/company/证书4.jpg",
+      "w": 474,
+      "h": 684,
+      "bytes": 55240
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\收款码&证书&执照\\证书.png",
+      "dest": "assets/images/company/证书5.png",
+      "w": 750,
+      "h": 415,
+      "bytes": 200520
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\油缸分解图1.jpg",
+      "dest": "assets/images/company/油缸分解图1.jpg",
+      "w": 904,
+      "h": 996,
+      "bytes": 77679
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\油缸测量图.jpg",
+      "dest": "assets/images/company/油缸测量图.jpg",
+      "w": 1000,
+      "h": 511,
+      "bytes": 54148
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\发动机图解.png",
+      "dest": "assets/images/company/发动机图解.png",
+      "w": 980,
+      "h": 895,
+      "bytes": 635204
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\破碎锤.jpg",
+      "dest": "assets/images/company/破碎锤.jpg",
+      "w": 782,
+      "h": 726,
+      "bytes": 87929
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\挖掘挖斗.jpg",
+      "dest": "assets/images/company/挖掘挖斗.jpg",
+      "w": 750,
+      "h": 750,
+      "bytes": 51789
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\挖斗测量图.png",
+      "dest": "assets/images/company/挖斗测量图.png",
+      "w": 750,
+      "h": 750,
+      "bytes": 405209
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\履带分解图.png",
+      "dest": "assets/images/company/履带分解图.png",
+      "w": 1000,
+      "h": 1000,
+      "bytes": 667310
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\底盘件.png",
+      "dest": "assets/images/company/底盘件.png",
+      "w": 1000,
+      "h": 572,
+      "bytes": 636135
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\Pin分布图-英语.png",
+      "dest": "assets/images/company/Pin分布图-英语.png",
+      "w": 1000,
+      "h": 667,
+      "bytes": 399230
+    },
+    {
+      "src": "E:\\目录模板资料&资料图&logo\\产品资料图\\定制液压油缸量尺寸.png",
+      "dest": "assets/images/company/定制液压油缸量尺寸.png",
+      "w": 1000,
+      "h": 496,
+      "bytes": 341526
+    }
+  ]
+}
