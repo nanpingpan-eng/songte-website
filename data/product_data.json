@@ -19,7 +19,12 @@
             "Overall length (extended)": "1,750 mm",
             "Product weight": "250 kg"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Bucket Cylinders"
         },
         {
           "name": "Arm Cylinder 9292426",
@@ -34,7 +39,12 @@
             "Max working pressure": "up to 350 bar",
             "Weight": "493 kg"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Arm Cylinders"
         },
         {
           "name": "Boom Cylinder (Left) 9292424",
@@ -50,7 +60,12 @@
             "Length when folded": "2,495 mm",
             "Weight": "not more than 380 kg"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Boom Cylinders"
         },
         {
           "name": "Bucket Cylinder 4613899",
@@ -66,7 +81,12 @@
             "Max working pressure": "350 bar",
             "Weight": "180 kg"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Bucket Cylinders"
         },
         {
           "name": "Suspension Cylinder 757708420900000",
@@ -78,7 +98,48 @@
             "Function": "Chassis damping and stabilization",
             "Working pressure": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Suspension Cylinders"
+        },
+        {
+          "name": "Piston Rod (Cylinder Rod)",
+          "part_no": "to be confirmed",
+          "category_id": "hydraulic-cylinders",
+          "description": "Piston rod for excavator hydraulic cylinders, machined to fit replacement and repair.",
+          "application": "to be confirmed",
+          "specs": {
+            "Rod diameter": "to be confirmed",
+            "Length": "to be confirmed",
+            "Material": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire",
+          "subcategory": "Piston Rods"
+        },
+        {
+          "name": "Hard-Chrome Plated Piston Rod",
+          "part_no": "to be confirmed",
+          "category_id": "hydraulic-cylinders",
+          "description": "Hard-chrome plated piston rod for excavator hydraulic cylinders, for wear and corrosion resistance.",
+          "application": "to be confirmed",
+          "specs": {
+            "Rod diameter": "to be confirmed",
+            "Chrome layer": "to be confirmed",
+            "Length": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire",
+          "subcategory": "Piston Rods"
         }
       ]
     },
@@ -99,7 +160,11 @@
             "Injection": "Direct injection",
             "Rated power": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "New OEM",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "3066 Engine Assembly for E320C",
@@ -112,7 +177,11 @@
             "Intercooler": "Yes",
             "Rated power": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "New OEM",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "4TNV98 Yanmar Diesel Engine",
@@ -124,7 +193,11 @@
             "Brand": "YANMAR",
             "Available variants": "4TNV98, 4TNV98T, 4TNV94T, 3TNV82, 3TNV70, 3TNV76"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "New OEM",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "C7.1 Remanufactured Engine",
@@ -136,7 +209,11 @@
             "Condition": "Remanufactured",
             "Rated power": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "Remanufactured",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "6D102 Komatsu Engine Assembly",
@@ -148,7 +225,11 @@
             "Condition": "Original / brand-new",
             "Rated power": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "New OEM",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -169,7 +250,11 @@
             "Part numbers": "9169054, 9257309",
             "Warranty": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "HPV102 Main Pump",
@@ -182,7 +267,11 @@
             "Part numbers": "9195235, 919116, 9195236, 9191164, 9195239",
             "Versions": "Handok new / Original rebuild / Aftermarket new"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "SBS140 Hydraulic Pump",
@@ -194,7 +283,11 @@
             "Type": "Main hydraulic pump",
             "Part numbers": "1733381, 2726955"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "K3V112DT Swashplate Axial Piston Pump",
@@ -207,7 +300,11 @@
             "Models": "KV3112DT-9C, K3V112DT-9N (12T / 14T)",
             "Also available": "K3V63DT"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "A8VO200 Main Pump",
@@ -219,7 +316,11 @@
             "Type": "Main hydraulic pump",
             "Part numbers": "400914-00248, 400914-00230, 401-00233, 400914-00295"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -240,7 +341,11 @@
             "Part numbers": "267-6913, 227-6116, 191-2535, 378-9568, 378-9567",
             "Warranty": "8 months (OEM)"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "12 months",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Final Drive Motor 199-4578",
@@ -253,7 +358,11 @@
             "Part numbers": "199-4578, 191-5606, 148-4696, 191-3246",
             "Warranty": "8 months (OEM)"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "12 months",
+          "lead_time": "Please inquire"
         },
         {
           "name": "GM09 Travel Motor Assembly",
@@ -266,7 +375,11 @@
             "Models in range": "GM06, GM09, MAG-180VP-6000",
             "Origin": "China-made, high quality"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "12 months",
+          "lead_time": "Please inquire"
         },
         {
           "name": "TM09 Travel Motor",
@@ -279,7 +392,11 @@
             "Models in range": "TM03, TM04, TM09, TM40",
             "Origin": "China-made, high quality"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "12 months",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -299,7 +416,11 @@
             "Type": "Swing / slew motor",
             "Model": "M2X150"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "M2X63 Swing Motor",
@@ -311,7 +432,11 @@
             "Type": "Swing / slew motor",
             "Model": "M2X63"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "M5X130 Swing Motor",
@@ -323,7 +448,11 @@
             "Type": "Swing / slew motor",
             "Model": "M5X130"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -344,7 +473,11 @@
             "Construction": "to be confirmed",
             "Core size": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Radiator for Caterpillar E320C (New)",
@@ -357,7 +490,11 @@
             "Construction": "Aluminium-plastic",
             "Core size (W x H)": "980 x 460 mm"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Hydraulic Oil Cooler for Hitachi ZAX200-3",
@@ -369,7 +506,11 @@
             "Type": "Hydraulic oil cooler",
             "Core size (W x H)": "1,100 x 490 mm"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Radiator for Volvo EC210B",
@@ -381,7 +522,11 @@
             "Type": "Water radiator",
             "Core size (W x H)": "880 x 326 mm"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -402,7 +547,12 @@
             "Contents": "Piston seal, rod seal, wiper, O-rings, wear rings",
             "Brand coverage": "All major brands"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire",
+          "subcategory": "Cylinder Seal Kits"
         },
         {
           "name": "Piston & Cap Nut Seal Set",
@@ -414,7 +564,11 @@
             "Type": "Piston & cap nut seal",
             "Contents": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Complete Machine Seal Kit",
@@ -426,7 +580,11 @@
             "Type": "Excavator seal kit",
             "Contents": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -447,7 +605,11 @@
             "Bit diameter": "68 mm",
             "Weight": "320 kg"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Breaker Hammer Body",
@@ -459,7 +621,11 @@
             "Type": "Breaker hammer body",
             "Package includes": "2 drill rods, tool set, 2 oil pipes, N2 gas cylinder"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Breaker Drill Rod (Chisel)",
@@ -471,7 +637,11 @@
             "Type": "Breaker drill rod",
             "Material": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -494,7 +664,11 @@
             "Weight": "260 kg",
             "Side shift": "660 mm"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Trencher 48\"",
@@ -508,7 +682,11 @@
             "Trench width": "120 - 300 mm",
             "Weight": "380 kg"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Hydraulic Quick Coupler",
@@ -520,7 +698,11 @@
             "Type": "Quick coupler",
             "Working pressure": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -542,7 +724,11 @@
             "Width": "1,850 mm",
             "Weight": "225 kg"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "4-in-1 Bucket 84\"",
@@ -556,7 +742,11 @@
             "Weight": "310 kg",
             "Jaw opening": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Bucket Tooth & Adapter Set",
@@ -569,7 +759,11 @@
             "Contents": "Tooth, adapter, bolt & nut, pin & lock",
             "Also available": "Cutting edge (blade), side cutter"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -590,7 +784,11 @@
             "Contents": "Oil pipes, adapter, pipe clamp, valve",
             "Working pressure": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "High-pressure Hydraulic Oil Hose",
@@ -603,7 +801,11 @@
             "Working pressure": "to be confirmed",
             "Size": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Suction / Return Oil Hose",
@@ -616,7 +818,11 @@
             "Working pressure": "to be confirmed",
             "Size": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -636,7 +842,11 @@
             "Brand": "CATERPILLAR",
             "Engine range": "3408, 3204, 3116, 3066, 3406, 3306, C13, C7, S6k, C18, C9"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "CAT SBS120 Hydraulic Pump",
@@ -648,7 +858,11 @@
             "Type": "Main hydraulic pump",
             "Part numbers": "272-6959, 2331115"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "CAT E330C Boom Cylinder",
@@ -660,7 +874,11 @@
             "Type": "Boom cylinder",
             "Bore / rod / stroke": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -680,7 +898,11 @@
             "Type": "Bucket cylinder",
             "Bore / rod / stroke": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Volvo EC460 Arm Cylinder",
@@ -692,7 +914,11 @@
             "Type": "Arm cylinder",
             "Bore / rod / stroke": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Volvo EC210B Radiator",
@@ -704,7 +930,11 @@
             "Type": "Water radiator",
             "Core size (W x H)": "880 x 326 mm"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -724,7 +954,11 @@
             "Type": "Fuel injector nozzle",
             "Application": "Diesel engines used in excavators"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Fuel Injector Assembly",
@@ -736,7 +970,11 @@
             "Type": "Fuel injector assembly",
             "Application": "Diesel engines used in excavators"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -756,7 +994,11 @@
             "Type": "Hydraulic solenoid valve",
             "Working pressure": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Proportional Solenoid Valve",
@@ -768,7 +1010,11 @@
             "Type": "Proportional solenoid valve",
             "Working pressure": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -788,7 +1034,11 @@
             "Type": "Hydraulic gear pump",
             "Flow rate": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Pilot Gear Pump",
@@ -800,7 +1050,11 @@
             "Type": "Pilot gear pump",
             "Flow rate": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -820,7 +1074,11 @@
             "Type": "Track chain assembly",
             "Pitch / link count": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Track Roller (Bottom Roller)",
@@ -832,7 +1090,11 @@
             "Type": "Bottom track roller",
             "Diameter": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Drive Sprocket",
@@ -844,7 +1106,11 @@
             "Type": "Drive sprocket",
             "Teeth count": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -864,7 +1130,11 @@
             "Type": "Engine wiring harness",
             "Voltage": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Machine Wiring Harness",
@@ -876,7 +1146,11 @@
             "Type": "Machine wiring harness",
             "Voltage": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -897,7 +1171,11 @@
             "Voltage": "to be confirmed",
             "Power": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Alternator",
@@ -910,7 +1188,11 @@
             "Voltage": "to be confirmed",
             "Current": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Sensors & Relays",
@@ -922,7 +1204,11 @@
             "Type": "Sensors / relays",
             "Voltage": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     },
@@ -942,7 +1228,11 @@
             "Type": "Transmission assembly",
             "Gear ratios": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
           "name": "Excavator Transmission Parts",
@@ -954,7 +1244,11 @@
             "Type": "Transmission internal parts",
             "Contents": "to be confirmed"
           },
-          "image_hint": ""
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     }
