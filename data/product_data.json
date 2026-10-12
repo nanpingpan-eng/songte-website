@@ -140,6 +140,139 @@
           "warranty": "Please inquire",
           "lead_time": "Please inquire",
           "subcategory": "Piston Rods"
+        },
+        {
+          "name": "Bucket Cylinder 204-3617",
+          "part_no": "204-3617",
+          "category_id": "hydraulic-cylinders",
+          "description": "Bucket hydraulic cylinder for Caterpillar excavator, OEM part number cross-reference.",
+          "application": "Caterpillar 320C",
+          "specs": {
+            "Cylinder diameter": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Rod stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Bucket Cylinders"
+        },
+        {
+          "name": "Arm Cylinder 204-3614",
+          "part_no": "204-3614",
+          "category_id": "hydraulic-cylinders",
+          "description": "Arm (dipper) hydraulic cylinder for Caterpillar excavator, OEM part number cross-reference.",
+          "application": "Caterpillar 320C",
+          "specs": {
+            "Cylinder diameter": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Rod stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Arm Cylinders"
+        },
+        {
+          "name": "Boom Cylinder 242-6731",
+          "part_no": "242-6731",
+          "category_id": "hydraulic-cylinders",
+          "description": "Boom hydraulic cylinder for Caterpillar excavator, OEM part number cross-reference.",
+          "application": "Caterpillar 320D / 323D",
+          "specs": {
+            "Cylinder diameter": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Rod stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Boom Cylinders"
+        },
+        {
+          "name": "Bucket Cylinder 4471214",
+          "part_no": "4471214",
+          "category_id": "hydraulic-cylinders",
+          "description": "Bucket hydraulic cylinder for Hitachi mini excavator, OEM part number cross-reference.",
+          "application": "HITACHI ZX55 / ZX55UR",
+          "specs": {
+            "Cylinder diameter": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Rod stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Bucket Cylinders"
+        },
+        {
+          "name": "Bucket Cylinder VOE14598125",
+          "part_no": "VOE14598125",
+          "category_id": "hydraulic-cylinders",
+          "description": "Bucket hydraulic cylinder for Volvo excavator, OEM VOE part number cross-reference.",
+          "application": "VOLVO EC210B",
+          "specs": {
+            "Cylinder diameter": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Rod stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Bucket Cylinders"
+        },
+        {
+          "name": "Boom Cylinder VOE14682069",
+          "part_no": "VOE14682069",
+          "category_id": "hydraulic-cylinders",
+          "description": "Boom hydraulic cylinder for large Volvo excavator, OEM VOE part number cross-reference.",
+          "application": "VOLVO EC950E",
+          "specs": {
+            "Cylinder diameter": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Rod stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Boom Cylinders"
+        },
+        {
+          "name": "Bucket Cylinder 707-01-0A321",
+          "part_no": "707-01-0A321",
+          "category_id": "hydraulic-cylinders",
+          "description": "Bucket hydraulic cylinder for Komatsu excavator, OEM part number cross-reference.",
+          "application": "KOMATSU PC200-7",
+          "specs": {
+            "Cylinder diameter": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Rod stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "subcategory": "Bucket Cylinders"
         }
       ]
     },
@@ -1249,6 +1382,471 @@
           "condition": "To be confirmed",
           "warranty": "Please inquire",
           "lead_time": "Please inquire"
+        }
+      ]
+    },
+    {
+      "id": "epiroc-cylinders",
+      "name": "Epiroc Cylinders",
+      "tagline": "Genuine Epiroc / Atlas Copco replacement cylinders for surface drill rigs.",
+      "description": "SongTe supplies genuine Epiroc and Atlas Copco replacement hydraulic cylinders and spare parts, ordered by part number, for surface drilling equipment including the DML 1200, DM 45, DM 30, DM 50 and DM 75 drill rigs. The range includes hydraulic feed cylinders, PP apron (skirt plate) cylinders and general replacement cylinders, each supplied by part number with dimensions verified against customer order drawings.",
+      "products": [
+        {
+          "name": "Epiroc Cylinder 2658389933",
+          "part_no": "2658389933",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "01-2658389933, 58389933, 57768582"
+        },
+        {
+          "name": "Epiroc Cylinder 58389933",
+          "part_no": "58389933",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "01-2658389933, 58389933, 57768582"
+        },
+        {
+          "name": "Epiroc Cylinder 57768582",
+          "part_no": "57768582",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed",
+            "Weight": "8 kg"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "01-2658389933, 58389933, 57768582"
+        },
+        {
+          "name": "Epiroc Cylinder 58504068",
+          "part_no": "58504068",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "02安百拓58504068"
+        },
+        {
+          "name": "Epiroc Cylinder 2657484263",
+          "part_no": "2657484263",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc hydraulic feed cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "03零件编号为 2657484263 和 57484263"
+        },
+        {
+          "name": "Epiroc Cylinder 57484263",
+          "part_no": "57484263",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc hydraulic feed cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "03零件编号为 2657484263 和 57484263"
+        },
+        {
+          "name": "Epiroc Cylinder 2654418991",
+          "part_no": "2654418991",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc PP apron (skirt plate) hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "04零件编号为 2654418991 和 54418991"
+        },
+        {
+          "name": "Epiroc Cylinder 54418991",
+          "part_no": "54418991",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc PP apron (skirt plate) hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "04零件编号为 2654418991 和 54418991"
+        },
+        {
+          "name": "Epiroc Cylinder 2657755589",
+          "part_no": "2657755589",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "05零件编号为 2657755589 和 57329427"
+        },
+        {
+          "name": "Epiroc Cylinder 57329427",
+          "part_no": "57329427",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "05零件编号为 2657755589 和 57329427"
+        },
+        {
+          "name": "Epiroc Cylinder 2654578539",
+          "part_no": "2654578539",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2654578539、54578539是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 54578539",
+          "part_no": "54578539",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2654578539、54578539是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2657329633",
+          "part_no": "2657329633",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657329633 57329633 是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 57329633",
+          "part_no": "57329633",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657329633 57329633 是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2657423808",
+          "part_no": "2657423808",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657423808 57423808是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 57423808",
+          "part_no": "57423808",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657423808 57423808是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2657531626",
+          "part_no": "2657531626",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657531626  57531626是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 57531626",
+          "part_no": "57531626",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657531626  57531626是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 57199093",
+          "part_no": "57199093",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "57199093 2657199093是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2657199093",
+          "part_no": "2657199093",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "57199093 2657199093是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2658487996",
+          "part_no": "2658487996",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "零件号 2658487996、58487996、2654578539"
+        },
+        {
+          "name": "Epiroc Cylinder 58487996",
+          "part_no": "58487996",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "零件号 2658487996、58487996、2654578539"
+        },
+        {
+          "name": "Epiroc Cylinder 2658488003",
+          "part_no": "2658488003",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "零件号 2658488003、58488003、57199093"
+        },
+        {
+          "name": "Epiroc Cylinder 58488003",
+          "part_no": "58488003",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "零件号 2658488003、58488003、57199093"
         }
       ]
     }
