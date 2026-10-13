@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://nanpingpan-eng.github.io/songte-website/sitemap.xml

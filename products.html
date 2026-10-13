@@ -1,6 +1,16 @@
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Products | SongTe Epiroc &amp; Excavator Cylinders</title><meta name="description" content="Browse Epiroc replacement cylinders and excavator hydraulic parts by category or brand.">
+<title>Products — Excavator Hydraulic Cylinders, Epiroc Parts &amp; Components | SongTe</title><meta name="description" content="Browse Epiroc replacement cylinders, custom excavator hydraulic cylinders, hydraulic pumps, final drives and engine parts by category or brand.">
+<link rel="canonical" href="https://nanpingpan-eng.github.io/songte-website/products.html">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://nanpingpan-eng.github.io/songte-website/products.html">
+<meta property="og:title" content="Products — Excavator Hydraulic Cylinders, Epiroc Parts &amp; Components | SongTe">
+<meta property="og:description" content="Browse Epiroc replacement cylinders, custom excavator hydraulic cylinders, hydraulic pumps, final drives and engine parts by category or brand.">
+<meta property="og:image" content="assets/images/epiroc/epiroc-01.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Products — Excavator Hydraulic Cylinders, Epiroc Parts &amp; Components | SongTe">
+<meta name="twitter:description" content="Browse Epiroc replacement cylinders, custom excavator hydraulic cylinders, hydraulic pumps, final drives and engine parts by category or brand.">
+
 <link rel="icon" href="assets/images/brand/logo.png" type="image/png">
 <link rel="stylesheet" href="assets/css/style.css"></head><body>
 <header class="site-header"><div class="container nav-wrap">
@@ -17,7 +27,7 @@
 <section class="page-hero"><div class="container">
 <div class="breadcrumb"><a href="index.html">Home</a> / Products</div>
 <h1>Products</h1>
-<p>Epiroc replacement cylinders and hydraulic cylinders first, then other excavator parts. Search or filter by brand, and expand a card to see its range.</p>
+<p>Epiroc replacement cylinders and hydraulic cylinders first, then other excavator parts. Search or filter by brand, then open a card to see its range.</p>
 </div></section>
 <section class="section"><div class="container">
 <div class="toolbar"><input type="search" id="cat-search" placeholder="Search products by name or part number..."></div>
@@ -302,12 +312,12 @@ var grid=document.getElementById('cat-grid');
 var activeBrand='';
 grid.addEventListener('click',function(e){
   var b=e.target.closest('.view-range'); if(!b)return;
+  if(b.tagName==='A')return; // links navigate
   b.closest('.cat-card').classList.toggle('open');
 });
 function applyFilter(){
   var q=input.value.trim().toLowerCase();
   grid.querySelectorAll('.cat-card').forEach(function(card){
-    // first filter rows
     var anyRow=false;
     card.querySelectorAll('.rp-row').forEach(function(r){
       var showQ = q==='' || r.textContent.toLowerCase().indexOf(q)!==-1;
@@ -347,4 +357,5 @@ chips.addEventListener('click',function(e){
 <li>Email: <a href="mailto:songtemachine04@hotmail.com">songtemachine04@hotmail.com</a></li>
 <li>WhatsApp / WeChat: +86 181 4282 7405</li><li>No. 119, Building 1, Xiangyi Technology Town, Jishan Xinlu Road, Zhuji Street, Tianhe District, Guangzhou City, Guangdong Province, China</li></ul></div>
 </div><div class="footer-bottom">&copy; 2026 Guangzhou SongTe Engineering Machinery CO.,LTD. All rights reserved.</div>
-</div></footer><script src="assets/js/main.js"></script></body></html>
+</div></footer><script src="assets/js/main.js"></script>
+<script data-goatcounter="https://songte.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script></body></html>
