@@ -1,10 +1,475 @@
 {
   "categories": [
     {
+      "id": "epiroc-cylinders",
+      "name": "Epiroc Hydraulic Cylinders",
+      "tagline": "Genuine Epiroc / Atlas Copco replacement cylinders by part number.",
+      "description": "Genuine Epiroc and Atlas Copco replacement hydraulic cylinders and spare parts, supplied by part number for DML 1200, DM 45, DM 30, DM 50 and DM 75 surface drill rigs.",
+      "products": [
+        {
+          "name": "Epiroc Cylinder 2658389933",
+          "part_no": "2658389933",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "01-2658389933, 58389933, 57768582"
+        },
+        {
+          "name": "Epiroc Cylinder 58389933",
+          "part_no": "58389933",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "01-2658389933, 58389933, 57768582"
+        },
+        {
+          "name": "Epiroc Cylinder 57768582",
+          "part_no": "57768582",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed",
+            "Weight": "8 kg"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "01-2658389933, 58389933, 57768582"
+        },
+        {
+          "name": "Epiroc Cylinder 58504068",
+          "part_no": "58504068",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "02安百拓58504068"
+        },
+        {
+          "name": "Epiroc Cylinder 2657484263",
+          "part_no": "2657484263",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc hydraulic feed cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "03零件编号为 2657484263 和 57484263"
+        },
+        {
+          "name": "Epiroc Cylinder 57484263",
+          "part_no": "57484263",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc hydraulic feed cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "03零件编号为 2657484263 和 57484263"
+        },
+        {
+          "name": "Epiroc Cylinder 2654418991",
+          "part_no": "2654418991",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc PP apron (skirt plate) hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "04零件编号为 2654418991 和 54418991"
+        },
+        {
+          "name": "Epiroc Cylinder 54418991",
+          "part_no": "54418991",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc PP apron (skirt plate) hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "04零件编号为 2654418991 和 54418991"
+        },
+        {
+          "name": "Epiroc Cylinder 2657755589",
+          "part_no": "2657755589",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "05零件编号为 2657755589 和 57329427"
+        },
+        {
+          "name": "Epiroc Cylinder 57329427",
+          "part_no": "57329427",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "05零件编号为 2657755589 和 57329427"
+        },
+        {
+          "name": "Epiroc Cylinder 2654578539",
+          "part_no": "2654578539",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2654578539、54578539是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 54578539",
+          "part_no": "54578539",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2654578539、54578539是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2657329633",
+          "part_no": "2657329633",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657329633 57329633 是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 57329633",
+          "part_no": "57329633",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657329633 57329633 是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2657423808",
+          "part_no": "2657423808",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657423808 57423808是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 57423808",
+          "part_no": "57423808",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657423808 57423808是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2657531626",
+          "part_no": "2657531626",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657531626  57531626是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 57531626",
+          "part_no": "57531626",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "2657531626  57531626是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 57199093",
+          "part_no": "57199093",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "57199093 2657199093是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2657199093",
+          "part_no": "2657199093",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "57199093 2657199093是由 Epiroc"
+        },
+        {
+          "name": "Epiroc Cylinder 2658487996",
+          "part_no": "2658487996",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "零件号 2658487996、58487996、2654578539"
+        },
+        {
+          "name": "Epiroc Cylinder 58487996",
+          "part_no": "58487996",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "零件号 2658487996、58487996、2654578539"
+        },
+        {
+          "name": "Epiroc Cylinder 2658488003",
+          "part_no": "2658488003",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "零件号 2658488003、58488003、57199093"
+        },
+        {
+          "name": "Epiroc Cylinder 58488003",
+          "part_no": "58488003",
+          "category_id": "epiroc-cylinders",
+          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
+          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "specs": {
+            "Cylinder bore": "to be confirmed",
+            "Rod diameter": "to be confirmed",
+            "Stroke": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "source_folder": "零件号 2658488003、58488003、57199093"
+        }
+      ]
+    },
+    {
       "id": "hydraulic-cylinders",
-      "name": "Hydraulic Cylinders",
-      "tagline": "Custom-built excavator hydraulic cylinder assemblies with 12 months warranty.",
-      "description": "SongTe specializes in the production of hydraulic cylinder assemblies and supports customization. We supply bucket (arm crowd), arm (dipper) and boom cylinders, as well as steering and suspension cylinders, for crawler excavators and truck cranes of Caterpillar, Komatsu, Hitachi, Volvo, Doosan-Daewoo, Kobelco, Sumitomo, Hyundai and Zoomlion. Every assembly is built to original-equipment dimensions and tested to a working pressure of up to 350 bar.",
+      "name": "Excavator Hydraulic Cylinders",
+      "tagline": "Custom boom, arm and bucket cylinders for all major excavator brands.",
+      "description": "SongTe specializes in hydraulic cylinder assemblies for Caterpillar, Komatsu, Hitachi, Volvo, Doosan, Hyundai, Kobelco, Sany, XCMG and more, with 18 months warranty and customization support.",
       "products": [
         {
           "name": "Bucket Cylinder 9292427",
@@ -3847,10 +4312,861 @@
       ]
     },
     {
+      "id": "loader-cylinders",
+      "name": "Loader Hydraulic Cylinders",
+      "tagline": "Loader hydraulic cylinders — contact us for your machine model.",
+      "description": "Loader hydraulic cylinders — contact us for your machine model.",
+      "products": []
+    },
+    {
+      "id": "fuel-injectors",
+      "name": "Fuel Injectors",
+      "tagline": "Diesel fuel injectors and nozzle assemblies for excavator engines.",
+      "description": "Diesel fuel injectors and nozzle assemblies for excavator diesel engines.",
+      "products": [
+        {
+          "name": "Fuel Injector Nozzle",
+          "part_no": "to be confirmed",
+          "category_id": "fuel-injectors",
+          "description": "Diesel fuel injector nozzle for excavator engine fuel systems.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Fuel injector nozzle",
+            "Application": "Diesel engines used in excavators"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Fuel Injector Assembly",
+          "part_no": "to be confirmed",
+          "category_id": "fuel-injectors",
+          "description": "Complete fuel injector assembly for excavator diesel engines.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Fuel injector assembly",
+            "Application": "Diesel engines used in excavators"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        }
+      ]
+    },
+    {
+      "id": "center-joints",
+      "name": "Swing / Center Joint",
+      "tagline": "Hydraulic center swivel joints for all major excavator brands.",
+      "description": "Hydraulic center joints (swivel joints) connecting upperstructure and undercarriage hydraulic circuits, available for Caterpillar, Komatsu, Hitachi, Doosan, Volvo, Hyundai and more.",
+      "products": [
+        {
+          "name": "Caterpillar E305.5-E308 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For E305.5/E306/E307/E308",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint E305.5,E306,E307,E308"
+        },
+        {
+          "name": "Caterpillar E311-E315 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For E311/E312/E313/E315",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint E311,E312,E313,E315"
+        },
+        {
+          "name": "Doosan DH55-DX60 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For DH55/DX55/DH60/DX60",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint DH55,DX55,DH60,DX60"
+        },
+        {
+          "name": "Doosan DH150-DH300 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For DH150-7/DH215/DH220-7/DH300-7",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint DH150-7,DH215,DH220-7,DH300-7"
+        },
+        {
+          "name": "Doosan DH370-DH500 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For DH370/DH470/DH500",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint DH370,DH470,DH500"
+        },
+        {
+          "name": "Komatsu PC200-PC240 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For PC200-7/PC200-8/PC220-7/PC220-8/PC240-7/PC240-8",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint PC200-7,PC200-8,PC220-7,PC220-8,PC240-7,PC240-8"
+        },
+        {
+          "name": "Komatsu PC300-PC450 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For PC300-7/PC350-7/PC360-7/PC400-7/PC450-7",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint PC300-7,PC350-7,PC360-7,PC400-7,PC450-7"
+        },
+        {
+          "name": "Hitachi ZAX200-ZAX360 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For ZAX200/ZAX240/ZAX250/ZAX330/ZAX360",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint ZAX200,ZAX240,ZAX250,ZAX330,ZAX360"
+        },
+        {
+          "name": "Hitachi ZAX450-ZAX870 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For ZAX450/ZAX470/ZAX650/ZAX850/ZAX870",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint ZAX450,ZAX470,ZAX650,ZAX850,ZAX870"
+        },
+        {
+          "name": "Volvo EC140-EC290 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For EC140/EC210/EC240/EC290",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint EC140,EC210,EC340,EC290B,EC290C"
+        },
+        {
+          "name": "Hyundai R215-R225 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For R215-7/R225-7",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint R215-7,R225-7,FR220"
+        },
+        {
+          "name": "Kobelco SK200-SK350 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For SK200-8/SK250-8/SK350-8",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint SK130-8,SK140-8,SK200-8,SK250-8,SK350-8"
+        },
+        {
+          "name": "Sumitomo SH200-SH240 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For SH200A3/SH200A5/SH210/SH240",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint SH200A3,SH200A5,SH210,SH240"
+        },
+        {
+          "name": "LiuGong CLG915-CLG925 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For CLG915/CLG920/CLG925C/CLG925D",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint CLG915,CLG920,CLG925C,CLG925D"
+        },
+        {
+          "name": "XCMG XE150-XE230 Center Joint",
+          "part_no": "to be confirmed",
+          "category_id": "center-joints",
+          "description": "Hydraulic center joint (swivel joint) for excavator hydraulic system, connecting upper and lower hydraulic circuits.",
+          "application": "For XE150/XE210/XE230",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\03. 分油盅\\无水印\\center joint XE150,XE210,XE230,XG822,XG825"
+        }
+      ]
+    },
+    {
+      "id": "solenoid-valves",
+      "name": "Solenoid Valves",
+      "tagline": "Hydraulic solenoid valves for excavator control systems.",
+      "description": "Hydraulic solenoid valves for excavator main control and pump-regulating circuits.",
+      "products": [
+        {
+          "name": "Hydraulic Solenoid Valve",
+          "part_no": "to be confirmed",
+          "category_id": "solenoid-valves",
+          "description": "Hydraulic solenoid valve for excavator hydraulic control circuits.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Hydraulic solenoid valve",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Proportional Solenoid Valve",
+          "part_no": "to be confirmed",
+          "category_id": "solenoid-valves",
+          "description": "Proportional solenoid valve for pump and main-valve control.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Proportional solenoid valve",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        }
+      ]
+    },
+    {
+      "id": "electrical-parts",
+      "name": "Electrical Parts",
+      "tagline": "Starter motors, alternators, sensors, relays and wiring harnesses.",
+      "description": "Excavator electrical components including starter motors, alternators, sensors, relays and complete wiring harnesses.",
+      "products": [
+        {
+          "name": "Starter Motor",
+          "part_no": "to be confirmed",
+          "category_id": "electrical-parts",
+          "description": "Starter motor for excavator diesel engines.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Starter motor",
+            "Voltage": "to be confirmed",
+            "Power": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Alternator",
+          "part_no": "to be confirmed",
+          "category_id": "electrical-parts",
+          "description": "Alternator / generator for the excavator charging system.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Alternator",
+            "Voltage": "to be confirmed",
+            "Current": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Sensors & Relays",
+          "part_no": "to be confirmed",
+          "category_id": "electrical-parts",
+          "description": "Sensors and relays for the excavator electric control system.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Sensors / relays",
+            "Voltage": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Engine Wiring Harness",
+          "part_no": "to be confirmed",
+          "category_id": "electrical-parts",
+          "description": "Engine wiring harness for excavator engine electric systems.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Engine wiring harness",
+            "Voltage": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Machine Wiring Harness",
+          "part_no": "to be confirmed",
+          "category_id": "electrical-parts",
+          "description": "Main machine wiring harness for the excavator electrical system.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Machine wiring harness",
+            "Voltage": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        }
+      ]
+    },
+    {
+      "id": "attachments",
+      "name": "Attachments",
+      "tagline": "Buckets, augers, trenchers, grapples and quick couplers.",
+      "description": "Excavator and skid-steer attachments including digging buckets, augers, trenchers, grapples, pallet forks, quick couplers and bucket teeth.",
+      "products": [
+        {
+          "name": "Auger XB600",
+          "part_no": "XB600",
+          "category_id": "attachments",
+          "description": "Hydraulic auger for skid steer loaders, with conical bits.",
+          "application": "Skid steer loaders",
+          "specs": {
+            "Type": "Hydraulic auger",
+            "Max torque": "7,000 N.m",
+            "Hole diameter": "200 - 900 mm",
+            "Weight": "260 kg",
+            "Side shift": "660 mm"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Trencher 48\"",
+          "part_no": "48 inch trencher",
+          "category_id": "attachments",
+          "description": "Chain trencher attachment for skid steer loaders.",
+          "application": "Skid steer loaders",
+          "specs": {
+            "Type": "Trencher",
+            "Trench depth": "1,200 mm",
+            "Trench width": "120 - 300 mm",
+            "Weight": "380 kg"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Hydraulic Quick Coupler",
+          "part_no": "to be confirmed",
+          "category_id": "attachments",
+          "description": "Quick connector / quick coupler for fast attachment changes on excavators.",
+          "application": "Excavators",
+          "specs": {
+            "Type": "Quick coupler",
+            "Working pressure": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Standard Digging Bucket 72\"",
+          "part_no": "to be confirmed",
+          "category_id": "attachments",
+          "description": "Standard digging bucket for skid steer loaders.",
+          "application": "Skid steer loaders",
+          "specs": {
+            "Type": "Standard bucket",
+            "Bucket capacity": "0.5 m3",
+            "Width": "1,850 mm",
+            "Weight": "225 kg"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "4-in-1 Bucket 84\"",
+          "part_no": "to be confirmed",
+          "category_id": "attachments",
+          "description": "4-in-1 multi-purpose bucket (doze, grade, clamshell, grab).",
+          "application": "Skid steer loaders",
+          "specs": {
+            "Type": "4-in-1 bucket",
+            "Capacity": "0.6 m3",
+            "Weight": "310 kg",
+            "Jaw opening": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Bucket Tooth & Adapter Set",
+          "part_no": "to be confirmed",
+          "category_id": "attachments",
+          "description": "Bucket tooth, adapter, bolt-and-nut and pin-and-lock wear set for excavator buckets.",
+          "application": "Excavator buckets",
+          "specs": {
+            "Type": "Bucket tooth / adapter",
+            "Contents": "Tooth, adapter, bolt & nut, pin & lock",
+            "Also available": "Cutting edge (blade), side cutter"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        }
+      ]
+    },
+    {
+      "id": "hydraulic-pumps-motors",
+      "name": "Swing Motors / Travel Motors / Hydraulic Pumps / Gear Pumps",
+      "tagline": "Main pumps, final drives, swing motors and gear pumps.",
+      "description": "Genuine and aftermarket hydraulic main pumps, travel (final drive) motors, swing motors and gear pumps for Caterpillar, Komatsu, Hitachi, Kawasaki and Handok.",
+      "products": [
+        {
+          "name": "HPV145 Hydraulic Main Pump",
+          "part_no": "9169054 / 9257309",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "HPV145 hydraulic main pump assembly, available with two catalog numbers.",
+          "application": "Komatsu HPV145 pump applications",
+          "specs": {
+            "Type": "Axial piston main pump",
+            "Part numbers": "9169054, 9257309",
+            "Warranty": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "HPV102 Main Pump",
+          "part_no": "9195235 / 9195236 / 9195239",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "HPV102 main pump, available as Handok new, original rebuild new or Hitachi aftermarket new.",
+          "application": "HITACHI ZX200 / ZX210 / ZX240 / ZX250 / ZX260 / ZX270 (also John Deere)",
+          "specs": {
+            "Type": "Axial piston main pump",
+            "Part numbers": "9195235, 919116, 9195236, 9191164, 9195239",
+            "Versions": "Handok new / Original rebuild / Aftermarket new"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "SBS140 Hydraulic Pump",
+          "part_no": "1733381 / 2726955",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Caterpillar SBS140 hydraulic main pump assembly.",
+          "application": "Caterpillar 320C / 320D",
+          "specs": {
+            "Type": "Main hydraulic pump",
+            "Part numbers": "1733381, 2726955"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "K3V112DT Swashplate Axial Piston Pump",
+          "part_no": "K3V112DT-9N",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Swashplate axial piston pump, double pump in series; adjustable swashplate angle, independent control, strong self-priming, long life and low noise.",
+          "application": "Crawler hydraulic excavators / various hydraulic open circuits",
+          "specs": {
+            "Type": "Swashplate axial piston pump, double pump in series",
+            "Models": "KV3112DT-9C, K3V112DT-9N (12T / 14T)",
+            "Also available": "K3V63DT"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "A8VO200 Main Pump",
+          "part_no": "400914-00248 / 400914-00230",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "A8VO200 hydraulic main pump assembly.",
+          "application": "A8VO200 pump applications",
+          "specs": {
+            "Type": "Main hydraulic pump",
+            "Part numbers": "400914-00248, 400914-00230, 401-00233, 400914-00295"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Final Drive Motor 267-6913",
+          "part_no": "267-6913",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Caterpillar final drive / travel motor assembly, OEM quality.",
+          "application": "Caterpillar 324D / 325D / 329D",
+          "specs": {
+            "Type": "Final drive / travel motor",
+            "Part numbers": "267-6913, 227-6116, 191-2535, 378-9568, 378-9567",
+            "Warranty": "8 months (OEM)"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "12 months",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Final Drive Motor 199-4578",
+          "part_no": "199-4578",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Caterpillar final drive / travel motor, low-noise, long-life, safe and reliable.",
+          "application": "Caterpillar 330D / 336D / 330C / 336D2 / 320C / 320D / 325B",
+          "specs": {
+            "Type": "Final drive / travel motor",
+            "Part numbers": "199-4578, 191-5606, 148-4696, 191-3246",
+            "Warranty": "8 months (OEM)"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "12 months",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "GM09 Travel Motor Assembly",
+          "part_no": "GM09",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "China-made high-quality travel (final drive) motor assembly.",
+          "application": "GM06 / GM09 travel motor applications",
+          "specs": {
+            "Type": "Travel / final drive motor",
+            "Models in range": "GM06, GM09, MAG-180VP-6000",
+            "Origin": "China-made, high quality"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "12 months",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "TM09 Travel Motor",
+          "part_no": "TM09",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "China-made high-quality travel motor final drive assembly.",
+          "application": "TM03 / TM04 / TM09 / TM40 class travel applications",
+          "specs": {
+            "Type": "Travel motor",
+            "Models in range": "TM03, TM04, TM09, TM40",
+            "Origin": "China-made, high quality"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "12 months",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "M2X150 Swing Motor",
+          "part_no": "M2X150",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Swing (slew) motor assembly for mid-size crawler excavators.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Swing / slew motor",
+            "Model": "M2X150"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "M2X63 Swing Motor",
+          "part_no": "M2X63",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Swing (slew) motor assembly for compact crawler excavators.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Swing / slew motor",
+            "Model": "M2X63"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "M5X130 Swing Motor",
+          "part_no": "M5X130",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Swing (slew) motor assembly for mid-size crawler excavators.",
+          "application": "ZAX230 and similar mid-size excavators",
+          "specs": {
+            "Type": "Swing / slew motor",
+            "Model": "M5X130"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Hydraulic Gear Pump",
+          "part_no": "to be confirmed",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Hydraulic gear pump for excavator auxiliary hydraulic circuits.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Hydraulic gear pump",
+            "Flow rate": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Pilot Gear Pump",
+          "part_no": "to be confirmed",
+          "category_id": "hydraulic-pumps-motors",
+          "description": "Pilot gear pump supplying control-pressure oil to the excavator hydraulic system.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Pilot gear pump",
+            "Flow rate": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        }
+      ]
+    },
+    {
+      "id": "oil-seals",
+      "name": "Oil Seals & Seal Kits",
+      "tagline": "Repair seal kits and oil seals for all major excavator brands.",
+      "description": "Hydraulic cylinder seal repair kits, piston and rod seals, and complete machine seal kits.",
+      "products": [
+        {
+          "name": "Hydraulic Cylinder Seal Repair Kit",
+          "part_no": "to be confirmed",
+          "category_id": "oil-seals",
+          "description": "Complete oil seal / repair seal kit for excavator hydraulic cylinders (bucket, arm and boom).",
+          "application": "Komatsu, Caterpillar, Hitachi, Volvo, Kobelco, Doosan, Hyundai and more",
+          "specs": {
+            "Type": "Cylinder seal repair kit",
+            "Contents": "Piston seal, rod seal, wiper, O-rings, wear rings",
+            "Brand coverage": "All major brands"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire",
+          "subcategory": "Cylinder Seal Kits"
+        },
+        {
+          "name": "Piston & Cap Nut Seal Set",
+          "part_no": "to be confirmed",
+          "category_id": "oil-seals",
+          "description": "Piston and cap nut seal set for hydraulic cylinders.",
+          "application": "Excavator hydraulic cylinders",
+          "specs": {
+            "Type": "Piston & cap nut seal",
+            "Contents": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        },
+        {
+          "name": "Complete Machine Seal Kit",
+          "part_no": "to be confirmed",
+          "category_id": "oil-seals",
+          "description": "Full excavator seal kit covering hydraulic cylinders and valves, for common excavator models.",
+          "application": "to be confirmed",
+          "specs": {
+            "Type": "Excavator seal kit",
+            "Contents": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Components",
+          "condition": "To be confirmed",
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
+        }
+      ]
+    },
+    {
       "id": "engine-parts",
-      "name": "Engine Assemblies & Parts",
-      "tagline": "More than 500 pcs of genuine new and remanufactured diesel engines in stock.",
-      "description": "SongTe stocks more than 500 pcs of genuine new diesel engines and complete engine assemblies for Kubota, Yanmar, Caterpillar, Cummins, Isuzu, Volvo, Mitsubishi, Deutz and Hino. We supply both original (brand-new) and remanufactured engines covering 1.5 t to large mining excavators, with a professional sales team and rich experience in the excavator hydraulic industry.",
+      "name": "Engines & Parts",
+      "tagline": "Genuine new and remanufactured diesel engine assemblies.",
+      "description": "Complete diesel engine assemblies for Caterpillar, Cummins, Isuzu, Yanmar, Kubota, Komatsu and more, including genuine Cat and Volvo engine parts.",
       "products": [
         {
           "name": "6HK1 Diesel Engine Assembly (Direct Injection)",
@@ -3933,25 +5249,16 @@
           "condition": "New OEM",
           "warranty": "Please inquire",
           "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "hydraulic-pumps",
-      "name": "Hydraulic Main Pumps",
-      "tagline": "Genuine high-quality main pumps for Komatsu, Caterpillar, Hitachi, Handok and Kawasaki.",
-      "description": "SongTe supplies genuine, high-quality hydraulic main pumps of KOMATSU, CATERPILLAR, HITACHI, HANDOK and KAWASAKI. Available as Handok new, original-rebuild new or aftermarket new, the range covers swashplate axial piston pumps suitable for crawler hydraulic excavators and various hydraulic open circuits, with strong self-priming, long life and low noise.",
-      "products": [
+        },
         {
-          "name": "HPV145 Hydraulic Main Pump",
-          "part_no": "9169054 / 9257309",
-          "category_id": "hydraulic-pumps",
-          "description": "HPV145 hydraulic main pump assembly, available with two catalog numbers.",
-          "application": "Komatsu HPV145 pump applications",
+          "name": "CAT Complete Engine Assembly C7",
+          "part_no": "C7",
+          "category_id": "engine-parts",
+          "description": "Complete Caterpillar diesel engine assembly for CAT excavators.",
+          "application": "Caterpillar excavators",
           "specs": {
-            "Type": "Axial piston main pump",
-            "Part numbers": "9169054, 9257309",
-            "Warranty": "to be confirmed"
+            "Brand": "CATERPILLAR",
+            "Engine range": "3408, 3204, 3116, 3066, 3406, 3306, C13, C7, S6k, C18, C9"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
@@ -3960,31 +5267,14 @@
           "lead_time": "Please inquire"
         },
         {
-          "name": "HPV102 Main Pump",
-          "part_no": "9195235 / 9195236 / 9195239",
-          "category_id": "hydraulic-pumps",
-          "description": "HPV102 main pump, available as Handok new, original rebuild new or Hitachi aftermarket new.",
-          "application": "HITACHI ZX200 / ZX210 / ZX240 / ZX250 / ZX260 / ZX270 (also John Deere)",
-          "specs": {
-            "Type": "Axial piston main pump",
-            "Part numbers": "9195235, 919116, 9195236, 9191164, 9195239",
-            "Versions": "Handok new / Original rebuild / Aftermarket new"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "SBS140 Hydraulic Pump",
-          "part_no": "1733381 / 2726955",
-          "category_id": "hydraulic-pumps",
-          "description": "Caterpillar SBS140 hydraulic main pump assembly.",
-          "application": "Caterpillar 320C / 320D",
+          "name": "CAT SBS120 Hydraulic Pump",
+          "part_no": "272-6959",
+          "category_id": "engine-parts",
+          "description": "Caterpillar SBS120 hydraulic main pump assembly.",
+          "application": "Caterpillar 329D / 325D / 324D",
           "specs": {
             "Type": "Main hydraulic pump",
-            "Part numbers": "1733381, 2726955"
+            "Part numbers": "272-6959, 2331115"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
@@ -3993,188 +5283,14 @@
           "lead_time": "Please inquire"
         },
         {
-          "name": "K3V112DT Swashplate Axial Piston Pump",
-          "part_no": "K3V112DT-9N",
-          "category_id": "hydraulic-pumps",
-          "description": "Swashplate axial piston pump, double pump in series; adjustable swashplate angle, independent control, strong self-priming, long life and low noise.",
-          "application": "Crawler hydraulic excavators / various hydraulic open circuits",
-          "specs": {
-            "Type": "Swashplate axial piston pump, double pump in series",
-            "Models": "KV3112DT-9C, K3V112DT-9N (12T / 14T)",
-            "Also available": "K3V63DT"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "A8VO200 Main Pump",
-          "part_no": "400914-00248 / 400914-00230",
-          "category_id": "hydraulic-pumps",
-          "description": "A8VO200 hydraulic main pump assembly.",
-          "application": "A8VO200 pump applications",
-          "specs": {
-            "Type": "Main hydraulic pump",
-            "Part numbers": "400914-00248, 400914-00230, 401-00233, 400914-00295"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "final-drives",
-      "name": "Final Drives / Travel Motors",
-      "tagline": "All kinds of final drive motors in stock with a 12-month warranty.",
-      "description": "SongTe warehouse stocks all kinds of final drive (travel) motors with a 12-month warranty. We supply OEM and high-quality China-made travel motor assemblies for Caterpillar, Hitachi, Komatsu, CASE, JCB and Daewoo-Doosan excavators, engineered for low noise, long life and safe, reliable operation.",
-      "products": [
-        {
-          "name": "Final Drive Motor 267-6913",
-          "part_no": "267-6913",
-          "category_id": "final-drives",
-          "description": "Caterpillar final drive / travel motor assembly, OEM quality.",
-          "application": "Caterpillar 324D / 325D / 329D",
-          "specs": {
-            "Type": "Final drive / travel motor",
-            "Part numbers": "267-6913, 227-6116, 191-2535, 378-9568, 378-9567",
-            "Warranty": "8 months (OEM)"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "12 months",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Final Drive Motor 199-4578",
-          "part_no": "199-4578",
-          "category_id": "final-drives",
-          "description": "Caterpillar final drive / travel motor, low-noise, long-life, safe and reliable.",
-          "application": "Caterpillar 330D / 336D / 330C / 336D2 / 320C / 320D / 325B",
-          "specs": {
-            "Type": "Final drive / travel motor",
-            "Part numbers": "199-4578, 191-5606, 148-4696, 191-3246",
-            "Warranty": "8 months (OEM)"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "12 months",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "GM09 Travel Motor Assembly",
-          "part_no": "GM09",
-          "category_id": "final-drives",
-          "description": "China-made high-quality travel (final drive) motor assembly.",
-          "application": "GM06 / GM09 travel motor applications",
-          "specs": {
-            "Type": "Travel / final drive motor",
-            "Models in range": "GM06, GM09, MAG-180VP-6000",
-            "Origin": "China-made, high quality"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "12 months",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "TM09 Travel Motor",
-          "part_no": "TM09",
-          "category_id": "final-drives",
-          "description": "China-made high-quality travel motor final drive assembly.",
-          "application": "TM03 / TM04 / TM09 / TM40 class travel applications",
-          "specs": {
-            "Type": "Travel motor",
-            "Models in range": "TM03, TM04, TM09, TM40",
-            "Origin": "China-made, high quality"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "12 months",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "swing-motors",
-      "name": "Swing Motors",
-      "tagline": "Swing motor assemblies for common crawler excavators.",
-      "description": "SongTe supplies swing motor (slew motor) assemblies together with travel motors, center joints and control valves. The range covers Kawasaki-style M2X and M5X swing motor units fitted to popular mid-size crawler excavators, supplied with high quality and a competitive price.",
-      "products": [
-        {
-          "name": "M2X150 Swing Motor",
-          "part_no": "M2X150",
-          "category_id": "swing-motors",
-          "description": "Swing (slew) motor assembly for mid-size crawler excavators.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Swing / slew motor",
-            "Model": "M2X150"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "M2X63 Swing Motor",
-          "part_no": "M2X63",
-          "category_id": "swing-motors",
-          "description": "Swing (slew) motor assembly for compact crawler excavators.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Swing / slew motor",
-            "Model": "M2X63"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "M5X130 Swing Motor",
-          "part_no": "M5X130",
-          "category_id": "swing-motors",
-          "description": "Swing (slew) motor assembly for mid-size crawler excavators.",
-          "application": "ZAX230 and similar mid-size excavators",
-          "specs": {
-            "Type": "Swing / slew motor",
-            "Model": "M5X130"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "radiators",
-      "name": "Radiators & Oil Coolers",
-      "tagline": "Water radiators, hydraulic oil coolers and intercoolers for all major brands.",
-      "description": "SongTe supplies water radiators, hydraulic oil coolers (oil coolers) and intercoolers for Komatsu, Caterpillar, Hitachi, Kobelco, Doosan-Daewoo, Sumitomo, Hyundai, Volvo, Sany, XCMG and LiuGong excavators. Units are available in aluminium-plastic or all-aluminium construction, dimensioned to match the original cooling pack.",
-      "products": [
-        {
-          "name": "Radiator for Komatsu PC200-8",
+          "name": "CAT E330C Boom Cylinder",
           "part_no": "to be confirmed",
-          "category_id": "radiators",
-          "description": "Water tank radiator for Komatsu PC200-8 excavator.",
-          "application": "Komatsu PC200-8",
+          "category_id": "engine-parts",
+          "description": "Boom hydraulic cylinder for Caterpillar E330C excavator.",
+          "application": "Caterpillar E330C",
           "specs": {
-            "Type": "Water radiator",
-            "Construction": "to be confirmed",
-            "Core size": "to be confirmed"
+            "Type": "Boom cylinder",
+            "Bore / rod / stroke": "to be confirmed"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
@@ -4183,15 +5299,14 @@
           "lead_time": "Please inquire"
         },
         {
-          "name": "Radiator for Caterpillar E320C (New)",
+          "name": "Volvo EC950 Bucket Cylinder",
           "part_no": "to be confirmed",
-          "category_id": "radiators",
-          "description": "Aluminium-plastic water tank radiator for Caterpillar E320C excavator.",
-          "application": "Caterpillar E320C (new style)",
+          "category_id": "engine-parts",
+          "description": "Bucket hydraulic cylinder for Volvo EC950 large excavator.",
+          "application": "Volvo EC950",
           "specs": {
-            "Type": "Water radiator",
-            "Construction": "Aluminium-plastic",
-            "Core size (W x H)": "980 x 460 mm"
+            "Type": "Bucket cylinder",
+            "Bore / rod / stroke": "to be confirmed"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
@@ -4200,14 +5315,14 @@
           "lead_time": "Please inquire"
         },
         {
-          "name": "Hydraulic Oil Cooler for Hitachi ZAX200-3",
+          "name": "Volvo EC460 Arm Cylinder",
           "part_no": "to be confirmed",
-          "category_id": "radiators",
-          "description": "Hydraulic oil cooler (oil cooler) for Hitachi ZAX200-3 excavator.",
-          "application": "Hitachi ZAX200-3",
+          "category_id": "engine-parts",
+          "description": "Arm (dipper) hydraulic cylinder for Volvo EC460 excavator.",
+          "application": "Volvo EC460",
           "specs": {
-            "Type": "Hydraulic oil cooler",
-            "Core size (W x H)": "1,100 x 490 mm"
+            "Type": "Arm cylinder",
+            "Bore / rod / stroke": "to be confirmed"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
@@ -4216,9 +5331,9 @@
           "lead_time": "Please inquire"
         },
         {
-          "name": "Radiator for Volvo EC210B",
+          "name": "Volvo EC210B Radiator",
           "part_no": "to be confirmed",
-          "category_id": "radiators",
+          "category_id": "engine-parts",
           "description": "Water tank radiator for Volvo EC210B excavator.",
           "application": "Volvo EC210B",
           "specs": {
@@ -4234,68 +5349,103 @@
       ]
     },
     {
-      "id": "oil-seals",
-      "name": "Oil Seals & Seal Kits",
-      "tagline": "Repair seal kits and oil seals for all major excavator brands.",
-      "description": "SongTe supplies various brands of repair kits and oil seals, together with central joints, hydraulic pumps, engines, travel motors, swing motors and distribution valves. Our hydraulic cylinder manufacturing expertise covers piston seals, rod seals, cap nuts and complete cylinder seal kits for the excavator models listed in our catalog.",
+      "id": "control-levers",
+      "name": "Control Levers",
+      "tagline": "Joystick pilot control levers for excavator hydraulic control.",
+      "description": "Joystick pilot control lever assemblies with valve spools for Caterpillar, Hitachi, Doosan, Komatsu and Kobelco excavators.",
       "products": [
         {
-          "name": "Hydraulic Cylinder Seal Repair Kit",
+          "name": "Caterpillar Series Joystick Control Lever",
           "part_no": "to be confirmed",
-          "category_id": "oil-seals",
-          "description": "Complete oil seal / repair seal kit for excavator hydraulic cylinders (bucket, arm and boom).",
-          "application": "Komatsu, Caterpillar, Hitachi, Volvo, Kobelco, Doosan, Hyundai and more",
-          "specs": {
-            "Type": "Cylinder seal repair kit",
-            "Contents": "Piston seal, rod seal, wiper, O-rings, wear rings",
-            "Brand coverage": "All major brands"
-          },
-          "image_hint": "",
-          "product_type": "Components",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire",
-          "subcategory": "Cylinder Seal Kits"
-        },
-        {
-          "name": "Piston & Cap Nut Seal Set",
-          "part_no": "to be confirmed",
-          "category_id": "oil-seals",
-          "description": "Piston and cap nut seal set for hydraulic cylinders.",
-          "application": "Excavator hydraulic cylinders",
-          "specs": {
-            "Type": "Piston & cap nut seal",
-            "Contents": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Components",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Complete Machine Seal Kit",
-          "part_no": "to be confirmed",
-          "category_id": "oil-seals",
-          "description": "Full excavator seal kit covering hydraulic cylinders and valves, for common excavator models.",
+          "category_id": "control-levers",
+          "description": "Joystick pilot control lever assembly for excavator hydraulic control, including valve spool (bullet).",
           "application": "to be confirmed",
           "specs": {
-            "Type": "Excavator seal kit",
-            "Contents": "to be confirmed"
+            "Channels": "to be confirmed",
+            "Voltage": "to be confirmed"
           },
           "image_hint": "",
-          "product_type": "Components",
+          "product_type": "Complete Assembly",
           "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\09. 操纵杆子弹头\\操纵杆\\卡特系列手柄"
+        },
+        {
+          "name": "Hitachi ZAX Series Joystick Control Lever",
+          "part_no": "to be confirmed",
+          "category_id": "control-levers",
+          "description": "Joystick pilot control lever assembly for excavator hydraulic control, including valve spool (bullet).",
+          "application": "to be confirmed",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Voltage": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\09. 操纵杆子弹头\\操纵杆\\ZAX电喷"
+        },
+        {
+          "name": "Doosan DH-7/DH-9 Joystick Control Lever",
+          "part_no": "to be confirmed",
+          "category_id": "control-levers",
+          "description": "Joystick pilot control lever assembly for excavator hydraulic control, including valve spool (bullet).",
+          "application": "to be confirmed",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Voltage": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\09. 操纵杆子弹头\\操纵杆\\DH-7-9操纵杆子弹头"
+        },
+        {
+          "name": "Komatsu PC Series Joystick Control Lever",
+          "part_no": "to be confirmed",
+          "category_id": "control-levers",
+          "description": "Joystick pilot control lever assembly for excavator hydraulic control, including valve spool (bullet).",
+          "application": "to be confirmed",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Voltage": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\09. 操纵杆子弹头\\操纵杆\\PC200-3老款操纵杆"
+        },
+        {
+          "name": "Kobelco Series Joystick Control Lever",
+          "part_no": "to be confirmed",
+          "category_id": "control-levers",
+          "description": "Joystick pilot control lever assembly for excavator hydraulic control, including valve spool (bullet).",
+          "application": "to be confirmed",
+          "specs": {
+            "Channels": "to be confirmed",
+            "Voltage": "to be confirmed"
+          },
+          "image_hint": "",
+          "product_type": "Complete Assembly",
+          "condition": "To be confirmed",
+          "warranty": "18 months",
+          "lead_time": "Please inquire",
+          "image_folder": "F:\\最新已分类产品图片\\09. 操纵杆子弹头\\操纵杆\\神钢系列操纵杆"
         }
       ]
     },
     {
       "id": "breakers",
       "name": "Hydraulic Breakers",
-      "tagline": "Breaker hammer bodies, drill rods and full breaker spare parts.",
-      "description": "SongTe supplies hydraulic breaking hammers and their spare parts. A complete breaker hammer package includes the hammer body, two drill rods, a tool set, two oil pipes and an N2 gas cylinder. We also supply back heads, charging valves, rod pins, piping kits, adapters, pipe clamps, front heads and bush sets.",
+      "tagline": "Breaker hammers, drill rods and spare parts.",
+      "description": "Hydraulic breaking hammers and spare parts including hammer bodies, drill rods, front heads, back heads and bush sets.",
       "products": [
         {
           "name": "SB40 Hydraulic Breaker",
@@ -4349,423 +5499,10 @@
       ]
     },
     {
-      "id": "attachments",
-      "name": "Excavator Attachments",
-      "tagline": "Augers, trenchers, grapples, forks, quick couplers and more.",
-      "description": "SongTe can supply breaking hammers, quick connectors, vibratory tampers, hydraulic shears, grapples and other excavator attachments, together with seal kits, center joints, pumps, engines, travel and swing motors and control valves. The Herklis skid-steer and wheel-loader attachment range includes brooms, snow blades, pallet forks, augers, trenchers, backhoes, grapple rakes and planers.",
-      "products": [
-        {
-          "name": "Auger XB600",
-          "part_no": "XB600",
-          "category_id": "attachments",
-          "description": "Hydraulic auger for skid steer loaders, with conical bits.",
-          "application": "Skid steer loaders",
-          "specs": {
-            "Type": "Hydraulic auger",
-            "Max torque": "7,000 N.m",
-            "Hole diameter": "200 - 900 mm",
-            "Weight": "260 kg",
-            "Side shift": "660 mm"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Trencher 48\"",
-          "part_no": "48 inch trencher",
-          "category_id": "attachments",
-          "description": "Chain trencher attachment for skid steer loaders.",
-          "application": "Skid steer loaders",
-          "specs": {
-            "Type": "Trencher",
-            "Trench depth": "1,200 mm",
-            "Trench width": "120 - 300 mm",
-            "Weight": "380 kg"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Hydraulic Quick Coupler",
-          "part_no": "to be confirmed",
-          "category_id": "attachments",
-          "description": "Quick connector / quick coupler for fast attachment changes on excavators.",
-          "application": "Excavators",
-          "specs": {
-            "Type": "Quick coupler",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "buckets-teeth",
-      "name": "Buckets & Teeth",
-      "tagline": "Digging buckets, 4-in-1 buckets, bucket teeth and adapters.",
-      "description": "SongTe supplies digging buckets, 4-in-1 buckets, grapple buckets and the associated wear parts: bucket teeth, adapters, bolts and nuts, pins and locks, cutting edges (blades) and side cutters, dimensioned to match the excavator's bucket capacity and digging geometry.",
-      "products": [
-        {
-          "name": "Standard Digging Bucket 72\"",
-          "part_no": "to be confirmed",
-          "category_id": "buckets-teeth",
-          "description": "Standard digging bucket for skid steer loaders.",
-          "application": "Skid steer loaders",
-          "specs": {
-            "Type": "Standard bucket",
-            "Bucket capacity": "0.5 m3",
-            "Width": "1,850 mm",
-            "Weight": "225 kg"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "4-in-1 Bucket 84\"",
-          "part_no": "to be confirmed",
-          "category_id": "buckets-teeth",
-          "description": "4-in-1 multi-purpose bucket (doze, grade, clamshell, grab).",
-          "application": "Skid steer loaders",
-          "specs": {
-            "Type": "4-in-1 bucket",
-            "Capacity": "0.6 m3",
-            "Weight": "310 kg",
-            "Jaw opening": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Bucket Tooth & Adapter Set",
-          "part_no": "to be confirmed",
-          "category_id": "buckets-teeth",
-          "description": "Bucket tooth, adapter, bolt-and-nut and pin-and-lock wear set for excavator buckets.",
-          "application": "Excavator buckets",
-          "specs": {
-            "Type": "Bucket tooth / adapter",
-            "Contents": "Tooth, adapter, bolt & nut, pin & lock",
-            "Also available": "Cutting edge (blade), side cutter"
-          },
-          "image_hint": "",
-          "product_type": "Components",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "hoses-tubes",
-      "name": "Hydraulic Hoses & Tubes",
-      "tagline": "High-pressure hydraulic hoses, piping kits and breaker oil pipes.",
-      "description": "SongTe supplies hydraulic hoses and piping including high-pressure / low-pressure oil hoses, suction and return hoses, drain and discharge hoses, and complete breaker piping kits. Hoses are built to handle the high working pressures of excavator hydraulic systems.",
-      "products": [
-        {
-          "name": "Breaker Piping Kit",
-          "part_no": "to be confirmed",
-          "category_id": "hoses-tubes",
-          "description": "Complete hydraulic breaker piping kit, including breaker oil pipes and pipe clamps.",
-          "application": "Excavator hydraulic breakers",
-          "specs": {
-            "Type": "Breaker piping kit",
-            "Contents": "Oil pipes, adapter, pipe clamp, valve",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Components",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "High-pressure Hydraulic Oil Hose",
-          "part_no": "to be confirmed",
-          "category_id": "hoses-tubes",
-          "description": "High / low-pressure hydraulic oil hose for excavator hydraulic circuits.",
-          "application": "Excavator hydraulic systems",
-          "specs": {
-            "Type": "Hydraulic hose",
-            "Working pressure": "to be confirmed",
-            "Size": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Components",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Suction / Return Oil Hose",
-          "part_no": "to be confirmed",
-          "category_id": "hoses-tubes",
-          "description": "Suction and return oil hose between the hydraulic tank and pump.",
-          "application": "Excavator hydraulic tank",
-          "specs": {
-            "Type": "Suction / return hose",
-            "Working pressure": "to be confirmed",
-            "Size": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Components",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "cat-genuine-parts",
-      "name": "Caterpillar Genuine Parts",
-      "tagline": "Genuine Caterpillar engines and hydraulic main pumps.",
-      "description": "SongTe supplies genuine Caterpillar excavator parts, including complete engine assemblies and genuine high-quality hydraulic main pumps. Cat parts are sourced for models ranging from small E306 to large E374 / E395 excavators, backed by the company's excavator hydraulic industry experience.",
-      "products": [
-        {
-          "name": "CAT Complete Engine Assembly C7",
-          "part_no": "C7",
-          "category_id": "cat-genuine-parts",
-          "description": "Complete Caterpillar diesel engine assembly for CAT excavators.",
-          "application": "Caterpillar excavators",
-          "specs": {
-            "Brand": "CATERPILLAR",
-            "Engine range": "3408, 3204, 3116, 3066, 3406, 3306, C13, C7, S6k, C18, C9"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "CAT SBS120 Hydraulic Pump",
-          "part_no": "272-6959",
-          "category_id": "cat-genuine-parts",
-          "description": "Caterpillar SBS120 hydraulic main pump assembly.",
-          "application": "Caterpillar 329D / 325D / 324D",
-          "specs": {
-            "Type": "Main hydraulic pump",
-            "Part numbers": "272-6959, 2331115"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "CAT E330C Boom Cylinder",
-          "part_no": "to be confirmed",
-          "category_id": "cat-genuine-parts",
-          "description": "Boom hydraulic cylinder for Caterpillar E330C excavator.",
-          "application": "Caterpillar E330C",
-          "specs": {
-            "Type": "Boom cylinder",
-            "Bore / rod / stroke": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "volvo-genuine-parts",
-      "name": "Volvo Genuine Parts",
-      "tagline": "Volvo hydraulic cylinders and cooling system parts.",
-      "description": "SongTe supplies Volvo excavator parts including hydraulic cylinder assemblies and radiators, covering the EC series from compact EC55 to large EC950 machines, built to original-equipment dimensions.",
-      "products": [
-        {
-          "name": "Volvo EC950 Bucket Cylinder",
-          "part_no": "to be confirmed",
-          "category_id": "volvo-genuine-parts",
-          "description": "Bucket hydraulic cylinder for Volvo EC950 large excavator.",
-          "application": "Volvo EC950",
-          "specs": {
-            "Type": "Bucket cylinder",
-            "Bore / rod / stroke": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Volvo EC460 Arm Cylinder",
-          "part_no": "to be confirmed",
-          "category_id": "volvo-genuine-parts",
-          "description": "Arm (dipper) hydraulic cylinder for Volvo EC460 excavator.",
-          "application": "Volvo EC460",
-          "specs": {
-            "Type": "Arm cylinder",
-            "Bore / rod / stroke": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Volvo EC210B Radiator",
-          "part_no": "to be confirmed",
-          "category_id": "volvo-genuine-parts",
-          "description": "Water tank radiator for Volvo EC210B excavator.",
-          "application": "Volvo EC210B",
-          "specs": {
-            "Type": "Water radiator",
-            "Core size (W x H)": "880 x 326 mm"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "fuel-injectors",
-      "name": "Fuel Injectors",
-      "tagline": "Diesel fuel injectors and nozzle assemblies for excavator engines.",
-      "description": "SongTe supplies diesel fuel injectors and nozzle assemblies for the excavator diesel engines in our range. These injector parts support the fuel system of Cummins, Isuzu, Caterpillar, Yanmar, Kubota and other engines used on crawler excavators. Specific part numbers, applications and specifications are available on request.",
-      "products": [
-        {
-          "name": "Fuel Injector Nozzle",
-          "part_no": "to be confirmed",
-          "category_id": "fuel-injectors",
-          "description": "Diesel fuel injector nozzle for excavator engine fuel systems.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Fuel injector nozzle",
-            "Application": "Diesel engines used in excavators"
-          },
-          "image_hint": "",
-          "product_type": "Components",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Fuel Injector Assembly",
-          "part_no": "to be confirmed",
-          "category_id": "fuel-injectors",
-          "description": "Complete fuel injector assembly for excavator diesel engines.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Fuel injector assembly",
-            "Application": "Diesel engines used in excavators"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "solenoid-valves",
-      "name": "Solenoid Valves",
-      "tagline": "Hydraulic solenoid valves for excavator control systems.",
-      "description": "SongTe supplies hydraulic solenoid valves as part of its excavator spare parts range, listed alongside hydraulic pumps and breaking hammers in the company product catalog. These valves control hydraulic flow and pressure in the excavator main control and pump-regulating circuits. Specific valve models and applications are available on request.",
-      "products": [
-        {
-          "name": "Hydraulic Solenoid Valve",
-          "part_no": "to be confirmed",
-          "category_id": "solenoid-valves",
-          "description": "Hydraulic solenoid valve for excavator hydraulic control circuits.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Hydraulic solenoid valve",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Proportional Solenoid Valve",
-          "part_no": "to be confirmed",
-          "category_id": "solenoid-valves",
-          "description": "Proportional solenoid valve for pump and main-valve control.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Proportional solenoid valve",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "gear-pumps",
-      "name": "Gear Pumps",
-      "tagline": "Hydraulic gear pumps for excavator auxiliary and pilot circuits.",
-      "description": "SongTe supplies hydraulic gear pumps as a complementary product to its main hydraulic pump range. Gear pumps provide auxiliary hydraulic flow for pilot and auxiliary circuits on crawler excavators. Specific model numbers and applications are available on request.",
-      "products": [
-        {
-          "name": "Hydraulic Gear Pump",
-          "part_no": "to be confirmed",
-          "category_id": "gear-pumps",
-          "description": "Hydraulic gear pump for excavator auxiliary hydraulic circuits.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Hydraulic gear pump",
-            "Flow rate": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Pilot Gear Pump",
-          "part_no": "to be confirmed",
-          "category_id": "gear-pumps",
-          "description": "Pilot gear pump supplying control-pressure oil to the excavator hydraulic system.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Pilot gear pump",
-            "Flow rate": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
       "id": "undercarriage",
       "name": "Undercarriage Parts",
-      "tagline": "Crawler excavator undercarriage components and track parts.",
-      "description": "SongTe supplies crawler excavator undercarriage parts, including track chains, track shoes, rollers, idlers and sprockets. These wear components support the track system of a wide range of crawler excavators. Specific applications and dimensions are available on request.",
+      "tagline": "Track chains, rollers, idlers and sprockets.",
+      "description": "Crawler excavator undercarriage parts including track chain assemblies, track rollers, drive sprockets, idlers and track shoes.",
       "products": [
         {
           "name": "Track Chain Assembly",
@@ -4818,20 +5555,21 @@
       ]
     },
     {
-      "id": "wiring-harness",
-      "name": "Wiring Harnesses",
-      "tagline": "Engine and machine wiring harnesses for excavator electric systems.",
-      "description": "SongTe supplies wiring harnesses for excavator electric systems, including engine and machine harnesses with waterproof connectors. These harnesses carry electrical signals and power across the engine and whole machine. Specific part numbers and applications are available on request.",
+      "id": "other-parts",
+      "name": "Other Parts",
+      "tagline": "Radiators, hoses, transmissions and other spare parts.",
+      "description": "Radiators and oil coolers, hydraulic hoses and piping kits, transmission assemblies and other excavator spare parts.",
       "products": [
         {
-          "name": "Engine Wiring Harness",
+          "name": "Breaker Piping Kit",
           "part_no": "to be confirmed",
-          "category_id": "wiring-harness",
-          "description": "Engine wiring harness for excavator engine electric systems.",
-          "application": "to be confirmed",
+          "category_id": "other-parts",
+          "description": "Complete hydraulic breaker piping kit, including breaker oil pipes and pipe clamps.",
+          "application": "Excavator hydraulic breakers",
           "specs": {
-            "Type": "Engine wiring harness",
-            "Voltage": "to be confirmed"
+            "Type": "Breaker piping kit",
+            "Contents": "Oil pipes, adapter, pipe clamp, valve",
+            "Working pressure": "to be confirmed"
           },
           "image_hint": "",
           "product_type": "Components",
@@ -4840,91 +5578,43 @@
           "lead_time": "Please inquire"
         },
         {
-          "name": "Machine Wiring Harness",
+          "name": "High-pressure Hydraulic Oil Hose",
           "part_no": "to be confirmed",
-          "category_id": "wiring-harness",
-          "description": "Main machine wiring harness for the excavator electrical system.",
-          "application": "to be confirmed",
+          "category_id": "other-parts",
+          "description": "High / low-pressure hydraulic oil hose for excavator hydraulic circuits.",
+          "application": "Excavator hydraulic systems",
           "specs": {
-            "Type": "Machine wiring harness",
-            "Voltage": "to be confirmed"
+            "Type": "Hydraulic hose",
+            "Working pressure": "to be confirmed",
+            "Size": "to be confirmed"
           },
           "image_hint": "",
           "product_type": "Components",
           "condition": "To be confirmed",
           "warranty": "Please inquire",
           "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "electrical-parts",
-      "name": "Electrical Parts",
-      "tagline": "Starter motors, alternators and excavator electrical components.",
-      "description": "SongTe supplies excavator electrical components including starter motors, alternators, sensors and relays. These parts support the starting, charging and electric-control systems of crawler excavators. Specific models and specifications are available on request.",
-      "products": [
-        {
-          "name": "Starter Motor",
-          "part_no": "to be confirmed",
-          "category_id": "electrical-parts",
-          "description": "Starter motor for excavator diesel engines.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Starter motor",
-            "Voltage": "to be confirmed",
-            "Power": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
         },
         {
-          "name": "Alternator",
+          "name": "Suction / Return Oil Hose",
           "part_no": "to be confirmed",
-          "category_id": "electrical-parts",
-          "description": "Alternator / generator for the excavator charging system.",
-          "application": "to be confirmed",
+          "category_id": "other-parts",
+          "description": "Suction and return oil hose between the hydraulic tank and pump.",
+          "application": "Excavator hydraulic tank",
           "specs": {
-            "Type": "Alternator",
-            "Voltage": "to be confirmed",
-            "Current": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "Please inquire",
-          "lead_time": "Please inquire"
-        },
-        {
-          "name": "Sensors & Relays",
-          "part_no": "to be confirmed",
-          "category_id": "electrical-parts",
-          "description": "Sensors and relays for the excavator electric control system.",
-          "application": "to be confirmed",
-          "specs": {
-            "Type": "Sensors / relays",
-            "Voltage": "to be confirmed"
+            "Type": "Suction / return hose",
+            "Working pressure": "to be confirmed",
+            "Size": "to be confirmed"
           },
           "image_hint": "",
           "product_type": "Components",
           "condition": "To be confirmed",
           "warranty": "Please inquire",
           "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "transmissions",
-      "name": "Transmissions",
-      "tagline": "Transmission assemblies for construction machinery.",
-      "description": "SongTe supplies transmission (gearbox) assemblies for construction machinery. Gearboxes deliver torque to the driveline of wheeled and tracked equipment. Specific models and applications are available on request.",
-      "products": [
+        },
         {
           "name": "Transmission Assembly",
           "part_no": "to be confirmed",
-          "category_id": "transmissions",
+          "category_id": "other-parts",
           "description": "Construction machinery transmission gearbox assembly.",
           "application": "to be confirmed",
           "specs": {
@@ -4940,7 +5630,7 @@
         {
           "name": "Excavator Transmission Parts",
           "part_no": "to be confirmed",
-          "category_id": "transmissions",
+          "category_id": "other-parts",
           "description": "Gears, bearings and internal components for excavator transmission and swing gearbox assemblies.",
           "application": "to be confirmed",
           "specs": {
@@ -4952,471 +5642,72 @@
           "condition": "To be confirmed",
           "warranty": "Please inquire",
           "lead_time": "Please inquire"
-        }
-      ]
-    },
-    {
-      "id": "epiroc-cylinders",
-      "name": "Epiroc Cylinders",
-      "tagline": "Genuine Epiroc / Atlas Copco replacement cylinders for surface drill rigs.",
-      "description": "SongTe supplies genuine Epiroc and Atlas Copco replacement hydraulic cylinders and spare parts, ordered by part number, for surface drilling equipment including the DML 1200, DM 45, DM 30, DM 50 and DM 75 drill rigs. The range includes hydraulic feed cylinders, PP apron (skirt plate) cylinders and general replacement cylinders, each supplied by part number with dimensions verified against customer order drawings.",
-      "products": [
-        {
-          "name": "Epiroc Cylinder 2658389933",
-          "part_no": "2658389933",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "01-2658389933, 58389933, 57768582"
         },
         {
-          "name": "Epiroc Cylinder 58389933",
-          "part_no": "58389933",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "name": "Radiator for Komatsu PC200-8",
+          "part_no": "to be confirmed",
+          "category_id": "other-parts",
+          "description": "Water tank radiator for Komatsu PC200-8 excavator.",
+          "application": "Komatsu PC200-8",
           "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
+            "Type": "Water radiator",
+            "Construction": "to be confirmed",
+            "Core size": "to be confirmed"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
           "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "01-2658389933, 58389933, 57768582"
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
-          "name": "Epiroc Cylinder 57768582",
-          "part_no": "57768582",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc replacement cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "name": "Radiator for Caterpillar E320C (New)",
+          "part_no": "to be confirmed",
+          "category_id": "other-parts",
+          "description": "Aluminium-plastic water tank radiator for Caterpillar E320C excavator.",
+          "application": "Caterpillar E320C (new style)",
           "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed",
-            "Weight": "8 kg"
+            "Type": "Water radiator",
+            "Construction": "Aluminium-plastic",
+            "Core size (W x H)": "980 x 460 mm"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
           "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "01-2658389933, 58389933, 57768582"
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
-          "name": "Epiroc Cylinder 58504068",
-          "part_no": "58504068",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "name": "Hydraulic Oil Cooler for Hitachi ZAX200-3",
+          "part_no": "to be confirmed",
+          "category_id": "other-parts",
+          "description": "Hydraulic oil cooler (oil cooler) for Hitachi ZAX200-3 excavator.",
+          "application": "Hitachi ZAX200-3",
           "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
+            "Type": "Hydraulic oil cooler",
+            "Core size (W x H)": "1,100 x 490 mm"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
           "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "02安百拓58504068"
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         },
         {
-          "name": "Epiroc Cylinder 2657484263",
-          "part_no": "2657484263",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc hydraulic feed cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
+          "name": "Radiator for Volvo EC210B",
+          "part_no": "to be confirmed",
+          "category_id": "other-parts",
+          "description": "Water tank radiator for Volvo EC210B excavator.",
+          "application": "Volvo EC210B",
           "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
+            "Type": "Water radiator",
+            "Core size (W x H)": "880 x 326 mm"
           },
           "image_hint": "",
           "product_type": "Complete Assembly",
           "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "03零件编号为 2657484263 和 57484263"
-        },
-        {
-          "name": "Epiroc Cylinder 57484263",
-          "part_no": "57484263",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc hydraulic feed cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "03零件编号为 2657484263 和 57484263"
-        },
-        {
-          "name": "Epiroc Cylinder 2654418991",
-          "part_no": "2654418991",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc PP apron (skirt plate) hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "04零件编号为 2654418991 和 54418991"
-        },
-        {
-          "name": "Epiroc Cylinder 54418991",
-          "part_no": "54418991",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc PP apron (skirt plate) hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "04零件编号为 2654418991 和 54418991"
-        },
-        {
-          "name": "Epiroc Cylinder 2657755589",
-          "part_no": "2657755589",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "05零件编号为 2657755589 和 57329427"
-        },
-        {
-          "name": "Epiroc Cylinder 57329427",
-          "part_no": "57329427",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc hydraulic cylinder. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "05零件编号为 2657755589 和 57329427"
-        },
-        {
-          "name": "Epiroc Cylinder 2654578539",
-          "part_no": "2654578539",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "2654578539、54578539是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 54578539",
-          "part_no": "54578539",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "2654578539、54578539是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 2657329633",
-          "part_no": "2657329633",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "2657329633 57329633 是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 57329633",
-          "part_no": "57329633",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "2657329633 57329633 是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 2657423808",
-          "part_no": "2657423808",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "2657423808 57423808是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 57423808",
-          "part_no": "57423808",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "2657423808 57423808是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 2657531626",
-          "part_no": "2657531626",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "2657531626  57531626是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 57531626",
-          "part_no": "57531626",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "2657531626  57531626是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 57199093",
-          "part_no": "57199093",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "57199093 2657199093是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 2657199093",
-          "part_no": "2657199093",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "57199093 2657199093是由 Epiroc"
-        },
-        {
-          "name": "Epiroc Cylinder 2658487996",
-          "part_no": "2658487996",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "零件号 2658487996、58487996、2654578539"
-        },
-        {
-          "name": "Epiroc Cylinder 58487996",
-          "part_no": "58487996",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "零件号 2658487996、58487996、2654578539"
-        },
-        {
-          "name": "Epiroc Cylinder 2658488003",
-          "part_no": "2658488003",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "零件号 2658488003、58488003、57199093"
-        },
-        {
-          "name": "Epiroc Cylinder 58488003",
-          "part_no": "58488003",
-          "category_id": "epiroc-cylinders",
-          "description": "Epiroc original spare cylinder / part. New original Epiroc / Atlas Copco replacement part for surface drilling equipment.",
-          "application": "Epiroc / Atlas Copco DML 1200, DM 45, DM 30, DM 50, DM 75 surface drill rigs",
-          "specs": {
-            "Cylinder bore": "to be confirmed",
-            "Rod diameter": "to be confirmed",
-            "Stroke": "to be confirmed",
-            "Working pressure": "to be confirmed"
-          },
-          "image_hint": "",
-          "product_type": "Complete Assembly",
-          "condition": "To be confirmed",
-          "warranty": "18 months",
-          "lead_time": "Please inquire",
-          "source_folder": "零件号 2658488003、58488003、57199093"
+          "warranty": "Please inquire",
+          "lead_time": "Please inquire"
         }
       ]
     }
